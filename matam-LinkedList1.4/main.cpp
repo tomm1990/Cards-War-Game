@@ -1,14 +1,12 @@
 #define _CRT_SECURE_NO_WARNINGS
-// -------------- Homework no.3 for Matam - Tom Goldberg ( ID : 302815279 ), Yonatan Rab ( ID : 300979747 ) ---------------------- //
+// ----- Homework no.3 for Matam - Tom Goldberg ( ID : 302815279 ), Yonatan Rab ( ID : 300979747 ) ------- //
 
 #include "Header.h"
 
-#define CREATITEM (snode*)malloc(sizeof(snode));		// typedef for malloc
+#define CREATITEM (snode*)malloc(sizeof(snode));			// typedef for malloc
 #define ISEMPTY printf("\nEMPTY LIST:");				// expresion for empty list
 
-
-typedef struct Card										// struct of item with typedef
-{
+typedef struct Card							// struct of item with typedef{
 	sign sign;						
 	color color;
 	char* name;
@@ -16,119 +14,107 @@ typedef struct Card										// struct of item with typedef
 	struct Card *next;
 } snode;
 
-
 snode* create_node(snode *arr);
 
-void FreeList();										// free malloc expresions of lists
-char* normalize(int val);								// function for the name of the value
-void display1(snode *head);								// display linked list from the start
-void InitializePack(snode val[]);						// initializing pack of cards ( items )
-void swap(snode *a, snode *b);							// custom made swap function
-void randomize(snode *arr, int n);						// custom made random function
-void simulation(snode *first1, snode *first2, FILE* MyFile);	// main simulation function which retreive two linked lists and ptr to file
-int remove_f_front(snode** head);						// function that removes front item from linked list
+void FreeList();							// free malloc expresions of lists
+char* normalize(int val);						// function for the name of the value
+void display1(snode *head);						// display linked list from the start
+void InitializePack(snode val[]);					// initializing pack of cards ( items )
+void swap(snode *a, snode *b);						// custom made swap function
+void randomize(snode *arr, int n);					// custom made random function
+void simulation(snode *first1, snode *first2, FILE* MyFile);		// main simulation function which retreive two linked lists and ptr to file
+int remove_f_front(snode** head);					// function that removes front item from linked list
 void add_to_end(snode* head, snode *val);				// function that adds item to end of likned list
-int count_items(snode *head);							// function that counts the number of items
-void left(snode* first1, snode* first2, FILE* MyFile);	// function that tells how item left in linked list
-void war(snode* first1, snode* first2, FILE* MyFile);	// function that operate round of war
+int count_items(snode *head);						// function that counts the number of items
+void left(snode* first1, snode* first2, FILE* MyFile);			// function that tells how item left in linked list
+void war(snode* first1, snode* first2, FILE* MyFile);			// function that operate round of war
 
 
 snode *newnode, *temp, *current, *temp1, *temp2, *first1 = NULL, *last1 = NULL, *first2 = NULL, *last2 = NULL;
 static int turn;
 
-int main()
-{
+int main(){
 	bool repeat;
 	do {
 		first1 = NULL, last1 = NULL, first2 = NULL, last2 = NULL;
 		turn = 0;
 		FILE* MyFile;
 		MyFile = fopen("GameResult.txt", "r");
-		if (MyFile == NULL)									// if file was not open
+		if (MyFile == NULL)					// if file was not open
 		{
 			MyFile = fopen("GameResult.txt", "w");
 			printf("\n-------------  Creating new file  -------------\n");
 			fprintf(MyFile, "\n------------- New File  -------------\n");
-			if (MyFile == NULL)
-			{
+			if (MyFile == NULL){
 				printf("The GameResult.txt could not be opened\n");
 			}
 		}
-		else
-		{
+		else{
 			MyFile = fopen("GameResult.txt", "a");
 			printf("\n-------------  Appen to exist file  -------------\n");
 			fprintf(MyFile, "\n------------- Appen to file  -------------\n");
 		}
 
-		struct Card FullPack[52];							// declaring array of 52 cards
-		InitializePack(FullPack);							// initializing the array
-		randomize(FullPack, 52);							// random the cards in the array
-
-		first1 = CREATITEM;									// initizaling player 1 linked list
-		if (first1 == NULL) {
-			exit(1);
-		}
-		first1->value = 1;									// declaring default values (must)
+		struct Card FullPack[52];				// declaring array of 52 cards
+		InitializePack(FullPack);				// initializing the array
+		randomize(FullPack, 52);				// random the cards in the array
+		first1 = CREATITEM;					// initizaling player 1 linked list
+		if (first1 == NULL) {	exit(1);   }
+		first1->value = 1;					// declaring default values (must)
 		first1->next = NULL;
 		first1->sign = Clubs;
 		first1->color = Black;
 		first1->name = "";
 
-		first2 = CREATITEM;									// initizaling player 2 linked list
-		if (first2 == NULL) {
-			exit(1);
-		}
-		first2->value = 1;									// declaring default values (must)
+		first2 = CREATITEM;					// initizaling player 2 linked list
+		if (first2 == NULL) {	exit(1);    }
+		first2->value = 1;					// declaring default values (must)
 		first2->next = NULL;
 		first2->sign = Clubs;
 		first2->color = Black;
 		first2->name = "";
 
 		printf("\n ------ Deviding the full pack to 2 players  ------ \n");
-		add_to_end(first1, (FullPack));						// Deviding the full pack to 2 players
+		add_to_end(first1, (FullPack));				// Deviding the full pack to 2 players
 		remove_f_front(&first1);
 		add_to_end(first2, (FullPack + 1));
 		remove_f_front(&first2);
-		for (int i = 2; i < 52; i++)
-		{
+		for (int i = 2; i < 52; i++){
 			add_to_end(first1, (FullPack + i));
 			add_to_end(first2, (FullPack + i + 1));
 			i++;
 		}
 
 		printf("\nPlayer 1 List:\n");
-		display1(first1);									// prints player 1 linked list
+		display1(first1);					// prints player 1 linked list
 		printf("Player 1 has %d Cards\n", count_items(first1));	// prints number of items
 
 		printf("\nPlayer 2 List:\n");
-		display1(first2);									// prints player 2 linked list
+		display1(first2);					// prints player 2 linked list
 		printf("Player 2 has %d Cards\n\n\n", count_items(first2)); // prints number of items
 
-		int choice;											// declaring (int)choice for user input
+		int choice;						// declaring (int)choice for user input
 		printf("\n\n\n ------ Welcome to War of Cards  ------ \n # Main Menu : ( Please choose )\n");
 		printf("\n1. Enter (1) to start the simulation\n2. Enter (2) to exit\nChoice: ");
-		scanf("%d", &choice);								// getting the user choice
-		while ((choice != 1) && (choice != 2))				// if user input is out of range than keep asking for valid value
+		scanf("%d", &choice);					// getting the user choice
+		while ((choice != 1) && (choice != 2))			// if user input is out of range than keep asking for valid value
 		{
 			printf("\nPlease enter a valid number!\n1. Enter (1) to start the simulation\n2. Enter (2) to exit\nChoice: ");
 			scanf("%d", &choice);
 		}
-		switch (choice)										// switch on the choice of user
+		switch (choice)						// switch on the choice of user
 		{
-			case 1:
-			{
-				simulation(first1, first2, MyFile);			// case 1 : start simulation()
+			case 1:{
+				simulation(first1, first2, MyFile);	// case 1 : start simulation()
 				printf("\n-------- End of Simulation--------\n");
 			}
-			case 2:
-			{
+			case 2:	{
 				//FreeList();
 				printf("\nPlayer 1 Linked List has been deleted\n");
 				printf("Player 2 Linked List has been deleted\n");
 				printf("\nGood bye\n");
 				system("pause");
-				return 0;									// case 2 : exit program
+				return 0;				// case 2 : exit program
 			}
 		}
 		
