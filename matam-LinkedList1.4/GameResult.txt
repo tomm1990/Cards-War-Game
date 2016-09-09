@@ -1,0 +1,861 @@
+
+------------- New File  -------------
+
+
+------ Starting simulation ------ 
+Turn <1>:	Player 1 draws : Jack of Diamonds <---> Player 2 draws : Eight of Hearts | Player 1 wins!
+Turn <2>:	Player 1 draws : Eight of Clubs <---> Player 2 draws : Qeeun of Diamonds | Player 2 wins!
+Turn <3>:	Player 1 draws : Qeeun of Clubs <---> Player 2 draws : Four of Clubs | Player 1 wins!
+Turn <4>:	Player 1 draws : Jack of Hearts <---> Player 2 draws : Nine of Diamonds | Player 1 wins!
+Turn <5>:	Player 1 draws : Ten of Spades <---> Player 2 draws : Five of Clubs | Player 1 wins!
+Turn <6>:	Player 1 draws : Seven of Clubs <---> Player 2 draws : Ten of Diamonds | Player 2 wins!
+Turn <7>:	Player 1 draws : Ace of Diamonds <---> Player 2 draws : Five of Spades | Player 1 wins!
+Turn <8>:	Player 1 draws : Six of Hearts <---> Player 2 draws : Six of Clubs | War !
+		Player 1 draws: Ace of Clubs <-> Player 2 draws: Four of Diamonds
+		Player 1 draws: King of Clubs <-> Player 2 draws: King of Hearts
+		Player 1 draws: Three of Clubs <-> Player 2 draws: Two of Diamonds
+-->		Player 1 draws: Two of Hearts <-> Player 2 draws: Three of Diamonds  | Player 2 wins!
+Turn <9>:	Player 1 draws : Nine of Spades <---> Player 2 draws : Two of Spades | Player 1 wins!
+Turn <10>:	Player 1 draws : Five of Diamonds <---> Player 2 draws : Ace of Hearts | Player 2 wins!
+Turn <11>:	Player 1 draws : Ten of Hearts <---> Player 2 draws : Four of Hearts | Player 1 wins!
+Turn <12>:	Player 1 draws : Five of Hearts <---> Player 2 draws : Six of Spades | Player 2 wins!
+Turn <13>:	Player 1 draws : Eight of Spades <---> Player 2 draws : Nine of Clubs | Player 2 wins!
+Turn <14>:	Player 1 draws : Ace of Spades <---> Player 2 draws : Nine of Hearts | Player 1 wins!
+Turn <15>:	Player 1 draws : Qeeun of Hearts <---> Player 2 draws : King of Spades | Player 2 wins!
+Turn <16>:	Player 1 draws : Seven of Spades <---> Player 2 draws : Three of Hearts | Player 1 wins!
+Turn <17>:	Player 1 draws : Eight of Diamonds <---> Player 2 draws : Jack of Clubs | Player 2 wins!
+Turn <18>:	Player 1 draws : Jack of Spades <---> Player 2 draws : Qeeun of Spades | Player 2 wins!
+Turn <19>:	Player 1 draws : Seven of Diamonds <---> Player 2 draws : King of Diamonds | Player 2 wins!
+Turn <20>:	Player 1 draws : Two of Clubs <---> Player 2 draws : Six of Diamonds | Player 2 wins!
+Turn <21>:	Player 1 draws : Three of Spades <---> Player 2 draws : Ten of Clubs | Player 2 wins!
+Turn <22>:	Player 1 draws : Seven of Hearts <---> Player 2 draws : Four of Spades | Player 1 wins!
+Turn <23>:	Player 1 draws : Eight of Hearts <---> Player 2 draws : Eight of Clubs | War !
+		Player 1 draws: Jack of Diamonds <-> Player 2 draws: Qeeun of Diamonds
+		Player 1 draws: Four of Clubs <-> Player 2 draws: Seven of Clubs
+		Player 1 draws: Qeeun of Clubs <-> Player 2 draws: Ten of Diamonds
+-->		Player 1 draws: Nine of Diamonds <-> Player 2 draws: Six of Hearts  | Player 1 wins!
+Turn <24>:	Player 1 draws : Jack of Hearts <---> Player 2 draws : Six of Clubs | Player 1 wins!
+Turn <25>:	Player 1 draws : Five of Clubs <---> Player 2 draws : Ace of Clubs | Player 2 wins!
+Turn <26>:	Player 1 draws : Ten of Spades <---> Player 2 draws : Four of Diamonds | Player 1 wins!
+Turn <27>:	Player 1 draws : Five of Spades <---> Player 2 draws : King of Clubs | Player 2 wins!
+Turn <28>:	Player 1 draws : Ace of Diamonds <---> Player 2 draws : King of Hearts | Player 1 wins!
+Turn <29>:	Player 1 draws : Two of Spades <---> Player 2 draws : Three of Clubs | Player 2 wins!
+Turn <30>:	Player 1 draws : Nine of Spades <---> Player 2 draws : Two of Diamonds | Player 1 wins!
+Turn <31>:	Player 1 draws : Four of Hearts <---> Player 2 draws : Two of Hearts | Player 1 wins!
+Turn <32>:	Player 1 draws : Ten of Hearts <---> Player 2 draws : Three of Diamonds | Player 1 wins!
+Turn <33>:	Player 1 draws : Nine of Hearts <---> Player 2 draws : Five of Diamonds | Player 1 wins!
+Turn <34>:	Player 1 draws : Ace of Spades <---> Player 2 draws : Ace of Hearts | War !
+		Player 1 draws: Three of Hearts <-> Player 2 draws: Five of Hearts
+		Player 1 draws: Seven of Spades <-> Player 2 draws: Six of Spades
+		Player 1 draws: Four of Spades <-> Player 2 draws: Eight of Spades
+-->		Player 1 draws: Seven of Hearts <-> Player 2 draws: Nine of Clubs  | Player 2 wins!
+Turn <35>:	Player 1 draws : Eight of Clubs <---> Player 2 draws : Qeeun of Hearts | Player 2 wins!
+Turn <36>:	Player 1 draws : Eight of Hearts <---> Player 2 draws : King of Spades | Player 2 wins!
+Turn <37>:	Player 1 draws : Qeeun of Diamonds <---> Player 2 draws : Eight of Diamonds | Player 1 wins!
+Turn <38>:	Player 1 draws : Jack of Diamonds <---> Player 2 draws : Jack of Clubs | War !
+		Player 1 draws: Seven of Clubs <-> Player 2 draws: Jack of Spades
+		Player 1 draws: Four of Clubs <-> Player 2 draws: Qeeun of Spades
+		Player 1 draws: Ten of Diamonds <-> Player 2 draws: Seven of Diamonds
+-->		Player 1 draws: Qeeun of Clubs <-> Player 2 draws: King of Diamonds  | Player 2 wins!
+Turn <39>:	Player 1 draws : Six of Hearts <---> Player 2 draws : Two of Clubs | Player 1 wins!
+Turn <40>:	Player 1 draws : Nine of Diamonds <---> Player 2 draws : Six of Diamonds | Player 1 wins!
+Turn <41>:	Player 1 draws : Six of Clubs <---> Player 2 draws : Three of Spades | Player 1 wins!
+Turn <42>:	Player 1 draws : Jack of Hearts <---> Player 2 draws : Ten of Clubs | Player 1 wins!
+Turn <43>:	Player 1 draws : Four of Diamonds <---> Player 2 draws : Five of Clubs | Player 2 wins!
+Turn <44>:	Player 1 draws : Ten of Spades <---> Player 2 draws : Ace of Clubs | Player 2 wins!
+Turn <45>:	Player 1 draws : King of Hearts <---> Player 2 draws : Five of Spades | Player 1 wins!
+Turn <46>:	Player 1 draws : Ace of Diamonds <---> Player 2 draws : King of Clubs | Player 1 wins!
+Turn <47>:	Player 1 draws : Two of Diamonds <---> Player 2 draws : Two of Spades | War !
+		Player 1 draws: Nine of Spades <-> Player 2 draws: Three of Clubs
+		Player 1 draws: Two of Hearts <-> Player 2 draws: Ace of Spades
+		Player 1 draws: Four of Hearts <-> Player 2 draws: Ace of Hearts
+-->		Player 1 draws: Three of Diamonds <-> Player 2 draws: Three of Hearts  |Turn <48>:	Player 1 draws : Nine of Spades <---> Player 2 draws : Three of Clubs | Player 1 wins!
+Turn <49>:	Player 1 draws : Two of Hearts <---> Player 2 draws : Ace of Spades | Player 2 wins!
+Turn <50>:	Player 1 draws : Four of Hearts <---> Player 2 draws : Ace of Hearts | Player 2 wins!
+Turn <51>:	Player 1 draws : Three of Diamonds <---> Player 2 draws : Three of Hearts | War !
+		Player 1 draws: Ten of Hearts <-> Player 2 draws: Five of Hearts
+		Player 1 draws: Five of Diamonds <-> Player 2 draws: Seven of Spades
+		Player 1 draws: Nine of Hearts <-> Player 2 draws: Six of Spades
+-->		Player 1 draws: Eight of Diamonds <-> Player 2 draws: Four of Spades  | Player 1 wins!
+Turn <52>:	Player 1 draws : Qeeun of Diamonds <---> Player 2 draws : Eight of Spades | Player 1 wins!
+Turn <53>:	Player 1 draws : Two of Clubs <---> Player 2 draws : Seven of Hearts | Player 2 wins!
+Turn <54>:	Player 1 draws : Six of Hearts <---> Player 2 draws : Nine of Clubs | Player 2 wins!
+Turn <55>:	Player 1 draws : Six of Diamonds <---> Player 2 draws : Eight of Clubs | Player 2 wins!
+Turn <56>:	Player 1 draws : Nine of Diamonds <---> Player 2 draws : Qeeun of Hearts | Player 2 wins!
+Turn <57>:	Player 1 draws : Three of Spades <---> Player 2 draws : Eight of Hearts | Player 2 wins!
+Turn <58>:	Player 1 draws : Six of Clubs <---> Player 2 draws : King of Spades | Player 2 wins!
+Turn <59>:	Player 1 draws : Ten of Clubs <---> Player 2 draws : Jack of Diamonds | Player 2 wins!
+Turn <60>:	Player 1 draws : Jack of Hearts <---> Player 2 draws : Jack of Clubs | War !
+		Player 1 draws: Five of Spades <-> Player 2 draws: Seven of Clubs
+		Player 1 draws: King of Hearts <-> Player 2 draws: Jack of Spades
+		Player 1 draws: King of Clubs <-> Player 2 draws: Four of Clubs
+-->		Player 1 draws: Ace of Diamonds <-> Player 2 draws: Qeeun of Spades  | Player 1 wins!
+Turn <61>:	Player 1 draws : Two of Diamonds <---> Player 2 draws : Ten of Diamonds | Player 2 wins!
+Turn <62>:	Player 1 draws : Three of Clubs <---> Player 2 draws : Seven of Diamonds | Player 2 wins!
+Turn <63>:	Player 1 draws : Nine of Spades <---> Player 2 draws : Qeeun of Clubs | Player 2 wins!
+Turn <64>:	Player 1 draws : Three of Hearts <---> Player 2 draws : King of Diamonds | Player 2 wins!
+Turn <65>:	Player 1 draws : Three of Diamonds <---> Player 2 draws : Four of Diamonds | Player 2 wins!
+Turn <66>:	Player 1 draws : Five of Hearts <---> Player 2 draws : Five of Clubs | War !
+		Player 1 draws: Ten of Hearts <-> Player 2 draws: Ten of Spades
+		Player 1 draws: Seven of Spades <-> Player 2 draws: Ace of Clubs
+		Player 1 draws: Five of Diamonds <-> Player 2 draws: Two of Spades
+-->		Player 1 draws: Six of Spades <-> Player 2 draws: Two of Hearts  | Player 1 wins!
+Turn <67>:	Player 1 draws : Nine of Hearts <---> Player 2 draws : Ace of Spades | Player 2 wins!
+Turn <68>:	Player 1 draws : Four of Spades <---> Player 2 draws : Four of Hearts | War !
+		Player 1 draws: Eight of Diamonds <-> Player 2 draws: Ace of Hearts
+		Player 1 draws: Eight of Spades <-> Player 2 draws: Two of Clubs
+		Player 1 draws: Qeeun of Diamonds <-> Player 2 draws: Seven of Hearts
+-->		Player 1 draws: Jack of Clubs <-> Player 2 draws: Six of Hearts  | Player 1 wins!
+Turn <69>:	Player 1 draws : Jack of Hearts <---> Player 2 draws : Nine of Clubs | Player 1 wins!
+Turn <70>:	Player 1 draws : Seven of Clubs <---> Player 2 draws : Six of Diamonds | Player 1 wins!
+Turn <71>:	Player 1 draws : Five of Spades <---> Player 2 draws : Eight of Clubs | Player 2 wins!
+Turn <72>:	Player 1 draws : Jack of Spades <---> Player 2 draws : Nine of Diamonds | Player 1 wins!
+Turn <73>:	Player 1 draws : King of Hearts <---> Player 2 draws : Qeeun of Hearts | Player 1 wins!
+Turn <74>:	Player 1 draws : Four of Clubs <---> Player 2 draws : Three of Spades | Player 1 wins!
+Turn <75>:	Player 1 draws : King of Clubs <---> Player 2 draws : Eight of Hearts | Player 1 wins!
+Turn <76>:	Player 1 draws : Qeeun of Spades <---> Player 2 draws : Six of Clubs | Player 1 wins!
+Turn <77>:	Player 1 draws : Ace of Diamonds <---> Player 2 draws : King of Spades | Player 1 wins!
+Turn <78>:	Player 1 draws : Five of Clubs <---> Player 2 draws : Ten of Clubs | Player 2 wins!
+Turn <79>:	Player 1 draws : Five of Hearts <---> Player 2 draws : Jack of Diamonds | Player 2 wins!
+Turn <80>:	Player 1 draws : Ten of Spades <---> Player 2 draws : Two of Diamonds | Player 1 wins!
+Turn <81>:	Player 1 draws : Ten of Hearts <---> Player 2 draws : Ten of Diamonds | War !
+		Player 1 draws: Ace of Clubs <-> Player 2 draws: Three of Clubs
+		Player 1 draws: Seven of Spades <-> Player 2 draws: Seven of Diamonds
+		Player 1 draws: Two of Spades <-> Player 2 draws: Nine of Spades
+-->		Player 1 draws: Five of Diamonds <-> Player 2 draws: Qeeun of Clubs  | Player 2 wins!
+Turn <82>:	Player 1 draws : Two of Hearts <---> Player 2 draws : Three of Hearts | Player 2 wins!
+Turn <83>:	Player 1 draws : Six of Spades <---> Player 2 draws : King of Diamonds | Player 2 wins!
+Turn <84>:	Player 1 draws : Four of Hearts <---> Player 2 draws : Three of Diamonds | Player 1 wins!
+Turn <85>:	Player 1 draws : Four of Spades <---> Player 2 draws : Four of Diamonds | War !
+		Player 1 draws: Ace of Hearts <-> Player 2 draws: Nine of Hearts
+		Player 1 draws: Eight of Diamonds <-> Player 2 draws: Ace of Spades
+		Player 1 draws: Two of Clubs <-> Player 2 draws: Five of Spades
+-->		Player 1 draws: Eight of Spades <-> Player 2 draws: Eight of Clubs  |Turn <86>:	Player 1 draws : Ace of Hearts <---> Player 2 draws : Nine of Hearts | Player 1 wins!
+Turn <87>:	Player 1 draws : Eight of Diamonds <---> Player 2 draws : Ace of Spades | Player 2 wins!
+Turn <88>:	Player 1 draws : Two of Clubs <---> Player 2 draws : Five of Spades | Player 2 wins!
+Turn <89>:	Player 1 draws : Eight of Spades <---> Player 2 draws : Eight of Clubs | War !
+		Player 1 draws: Seven of Hearts <-> Player 2 draws: Five of Clubs
+		Player 1 draws: Qeeun of Diamonds <-> Player 2 draws: Ten of Clubs
+		Player 1 draws: Six of Hearts <-> Player 2 draws: Five of Hearts
+-->		Player 1 draws: Jack of Clubs <-> Player 2 draws: Jack of Diamonds  |Turn <90>:	Player 1 draws : Seven of Hearts <---> Player 2 draws : Five of Clubs | Player 1 wins!
+Turn <91>:	Player 1 draws : Qeeun of Diamonds <---> Player 2 draws : Ten of Clubs | Player 1 wins!
+Turn <92>:	Player 1 draws : Six of Hearts <---> Player 2 draws : Five of Hearts | Player 1 wins!
+Turn <93>:	Player 1 draws : Jack of Clubs <---> Player 2 draws : Jack of Diamonds | War !
+		Player 1 draws: Nine of Clubs <-> Player 2 draws: Ten of Hearts
+		Player 1 draws: Jack of Hearts <-> Player 2 draws: Ten of Diamonds
+		Player 1 draws: Six of Diamonds <-> Player 2 draws: Ace of Clubs
+-->		Player 1 draws: Seven of Clubs <-> Player 2 draws: Three of Clubs  | Player 1 wins!
+Turn <94>:	Player 1 draws : Nine of Diamonds <---> Player 2 draws : Seven of Spades | Player 1 wins!
+Turn <95>:	Player 1 draws : Jack of Spades <---> Player 2 draws : Seven of Diamonds | Player 1 wins!
+Turn <96>:	Player 1 draws : Qeeun of Hearts <---> Player 2 draws : Two of Spades | Player 1 wins!
+Turn <97>:	Player 1 draws : King of Hearts <---> Player 2 draws : Nine of Spades | Player 1 wins!
+Turn <98>:	Player 1 draws : Three of Spades <---> Player 2 draws : Five of Diamonds | Player 2 wins!
+Turn <99>:	Player 1 draws : Four of Clubs <---> Player 2 draws : Qeeun of Clubs | Player 2 wins!
+Turn <100>:	Player 1 draws : Eight of Hearts <---> Player 2 draws : Two of Hearts | Player 1 wins!
+Turn <101>:	Player 1 draws : King of Clubs <---> Player 2 draws : Three of Hearts | Player 1 wins!
+Turn <102>:	Player 1 draws : Six of Clubs <---> Player 2 draws : Six of Spades | War !
+		Player 1 draws: Qeeun of Spades <-> Player 2 draws: King of Diamonds
+		Player 1 draws: King of Spades <-> Player 2 draws: Four of Diamonds
+		Player 1 draws: Ace of Diamonds <-> Player 2 draws: Eight of Diamonds
+-->		Player 1 draws: Two of Diamonds <-> Player 2 draws: Ace of Spades  | Player 2 wins!
+Turn <103>:	Player 1 draws : Ten of Spades <---> Player 2 draws : Two of Clubs | Player 1 wins!
+Turn <104>:	Player 1 draws : Three of Diamonds <---> Player 2 draws : Five of Spades | Player 2 wins!
+Turn <105>:	Player 1 draws : Four of Hearts <---> Player 2 draws : Eight of Clubs | Player 2 wins!
+Turn <106>:	Player 1 draws : Four of Spades <---> Player 2 draws : Three of Spades | Player 1 wins!
+Turn <107>:	Player 1 draws : Nine of Hearts <---> Player 2 draws : Five of Diamonds | Player 1 wins!
+Turn <108>:	Player 1 draws : Ace of Hearts <---> Player 2 draws : Four of Clubs | Player 1 wins!
+Turn <109>:	Player 1 draws : Eight of Spades <---> Player 2 draws : Qeeun of Clubs | Player 2 wins!
+Turn <110>:	Player 1 draws : Five of Clubs <---> Player 2 draws : Six of Clubs | Player 2 wins!
+Turn <111>:	Player 1 draws : Seven of Hearts <---> Player 2 draws : Six of Spades | Player 1 wins!
+Turn <112>:	Player 1 draws : Ten of Clubs <---> Player 2 draws : Qeeun of Spades | Player 2 wins!
+Turn <113>:	Player 1 draws : Qeeun of Diamonds <---> Player 2 draws : King of Diamonds | Player 2 wins!
+Turn <114>:	Player 1 draws : Five of Hearts <---> Player 2 draws : King of Spades | Player 2 wins!
+Turn <115>:	Player 1 draws : Six of Hearts <---> Player 2 draws : Four of Diamonds | Player 1 wins!
+Turn <116>:	Player 1 draws : Jack of Diamonds <---> Player 2 draws : Ace of Diamonds | Player 2 wins!
+Turn <117>:	Player 1 draws : Jack of Clubs <---> Player 2 draws : Eight of Diamonds | Player 1 wins!
+Turn <118>:	Player 1 draws : Ten of Hearts <---> Player 2 draws : Two of Diamonds | Player 1 wins!
+Turn <119>:	Player 1 draws : Nine of Clubs <---> Player 2 draws : Ace of Spades | Player 2 wins!
+Turn <120>:	Player 1 draws : Ten of Diamonds <---> Player 2 draws : Three of Diamonds | Player 1 wins!
+Turn <121>:	Player 1 draws : Jack of Hearts <---> Player 2 draws : Five of Spades | Player 1 wins!
+Turn <122>:	Player 1 draws : Ace of Clubs <---> Player 2 draws : Four of Hearts | Player 1 wins!
+Turn <123>:	Player 1 draws : Six of Diamonds <---> Player 2 draws : Eight of Clubs | Player 2 wins!
+Turn <124>:	Player 1 draws : Three of Clubs <---> Player 2 draws : Eight of Spades | Player 2 wins!
+Turn <125>:	Player 1 draws : Seven of Clubs <---> Player 2 draws : Qeeun of Clubs | Player 2 wins!
+Turn <126>:	Player 1 draws : Seven of Spades <---> Player 2 draws : Five of Clubs | Player 1 wins!
+Turn <127>:	Player 1 draws : Nine of Diamonds <---> Player 2 draws : Six of Clubs | Player 1 wins!
+Turn <128>:	Player 1 draws : Seven of Diamonds <---> Player 2 draws : Ten of Clubs | Player 2 wins!
+Turn <129>:	Player 1 draws : Jack of Spades <---> Player 2 draws : Qeeun of Spades | Player 2 wins!
+Turn <130>:	Player 1 draws : Two of Spades <---> Player 2 draws : Qeeun of Diamonds | Player 2 wins!
+Turn <131>:	Player 1 draws : Qeeun of Hearts <---> Player 2 draws : King of Diamonds | Player 2 wins!
+Turn <132>:	Player 1 draws : Nine of Spades <---> Player 2 draws : Five of Hearts | Player 1 wins!
+Turn <133>:	Player 1 draws : King of Hearts <---> Player 2 draws : King of Spades | War !
+		Player 1 draws: Two of Hearts <-> Player 2 draws: Jack of Diamonds
+		Player 1 draws: Eight of Hearts <-> Player 2 draws: Ace of Diamonds
+		Player 1 draws: Three of Hearts <-> Player 2 draws: Nine of Clubs
+-->		Player 1 draws: King of Clubs <-> Player 2 draws: Ace of Spades  | Player 2 wins!
+Turn <134>:	Player 1 draws : Two of Clubs <---> Player 2 draws : Six of Diamonds | Player 2 wins!
+Turn <135>:	Player 1 draws : Ten of Spades <---> Player 2 draws : Eight of Clubs | Player 1 wins!
+Turn <136>:	Player 1 draws : Three of Spades <---> Player 2 draws : Three of Clubs | War !
+		Player 1 draws: Four of Spades <-> Player 2 draws: Eight of Spades
+		Player 1 draws: Five of Diamonds <-> Player 2 draws: Seven of Clubs
+		Player 1 draws: Nine of Hearts <-> Player 2 draws: Qeeun of Clubs
+-->		Player 1 draws: Four of Clubs <-> Player 2 draws: Seven of Diamonds  | Player 2 wins!
+Turn <137>:	Player 1 draws : Ace of Hearts <---> Player 2 draws : Ten of Clubs | Player 1 wins!
+Turn <138>:	Player 1 draws : Six of Spades <---> Player 2 draws : Jack of Spades | Player 2 wins!
+Turn <139>:	Player 1 draws : Seven of Hearts <---> Player 2 draws : Qeeun of Spades | Player 2 wins!
+Turn <140>:	Player 1 draws : Four of Diamonds <---> Player 2 draws : Two of Spades | Player 1 wins!
+Turn <141>:	Player 1 draws : Six of Hearts <---> Player 2 draws : Qeeun of Diamonds | Player 2 wins!
+Turn <142>:	Player 1 draws : Eight of Diamonds <---> Player 2 draws : Qeeun of Hearts | Player 2 wins!
+Turn <143>:	Player 1 draws : Jack of Clubs <---> Player 2 draws : King of Diamonds | Player 2 wins!
+Turn <144>:	Player 1 draws : Two of Diamonds <---> Player 2 draws : King of Hearts | Player 2 wins!
+Turn <145>:	Player 1 draws : Ten of Hearts <---> Player 2 draws : King of Spades | Player 2 wins!
+Turn <146>:	Player 1 draws : Three of Diamonds <---> Player 2 draws : Two of Hearts | Player 1 wins!
+Turn <147>:	Player 1 draws : Ten of Diamonds <---> Player 2 draws : Jack of Diamonds | Player 2 wins!
+Turn <148>:	Player 1 draws : Five of Spades <---> Player 2 draws : Eight of Hearts | Player 2 wins!
+Turn <149>:	Player 1 draws : Jack of Hearts <---> Player 2 draws : Ace of Diamonds | Player 2 wins!
+Turn <150>:	Player 1 draws : Four of Hearts <---> Player 2 draws : Three of Hearts | Player 1 wins!
+Turn <151>:	Player 1 draws : Ace of Clubs <---> Player 2 draws : Nine of Clubs | Player 1 wins!
+Turn <152>:	Player 1 draws : Five of Clubs <---> Player 2 draws : King of Clubs | Player 2 wins!
+Turn <153>:	Player 1 draws : Seven of Spades <---> Player 2 draws : Ace of Spades | Player 2 wins!
+Turn <154>:	Player 1 draws : Six of Clubs <---> Player 2 draws : Two of Clubs | Player 1 wins!
+Turn <155>:	Player 1 draws : Nine of Diamonds <---> Player 2 draws : Six of Diamonds | Player 1 wins!
+Turn <156>:	Player 1 draws : Five of Hearts <---> Player 2 draws : Three of Spades | Player 1 wins!
+Turn <157>:	Player 1 draws : Nine of Spades <---> Player 2 draws : Three of Clubs | Player 1 wins!
+Turn <158>:	Player 1 draws : Eight of Clubs <---> Player 2 draws : Four of Spades | Player 1 wins!
+Turn <159>:	Player 1 draws : Ten of Spades <---> Player 2 draws : Eight of Spades | Player 1 wins!
+Turn <160>:	Player 1 draws : Ten of Clubs <---> Player 2 draws : Five of Diamonds | Player 1 wins!
+Turn <161>:	Player 1 draws : Ace of Hearts <---> Player 2 draws : Seven of Clubs | Player 1 wins!
+Turn <162>:	Player 1 draws : Two of Spades <---> Player 2 draws : Nine of Hearts | Player 2 wins!
+Turn <163>:	Player 1 draws : Four of Diamonds <---> Player 2 draws : Qeeun of Clubs | Player 2 wins!
+Turn <164>:	Player 1 draws : Two of Hearts <---> Player 2 draws : Four of Clubs | Player 2 wins!
+Turn <165>:	Player 1 draws : Three of Diamonds <---> Player 2 draws : Seven of Diamonds | Player 2 wins!
+Turn <166>:	Player 1 draws : Three of Hearts <---> Player 2 draws : Six of Spades | Player 2 wins!
+Turn <167>:	Player 1 draws : Four of Hearts <---> Player 2 draws : Jack of Spades | Player 2 wins!
+Turn <168>:	Player 1 draws : Nine of Clubs <---> Player 2 draws : Seven of Hearts | Player 1 wins!
+Turn <169>:	Player 1 draws : Ace of Clubs <---> Player 2 draws : Qeeun of Spades | Player 1 wins!
+Turn <170>:	Player 1 draws : Two of Clubs <---> Player 2 draws : Six of Hearts | Player 2 wins!
+Turn <171>:	Player 1 draws : Six of Clubs <---> Player 2 draws : Qeeun of Diamonds | Player 2 wins!
+Turn <172>:	Player 1 draws : Six of Diamonds <---> Player 2 draws : Eight of Diamonds | Player 2 wins!
+Turn <173>:	Player 1 draws : Nine of Diamonds <---> Player 2 draws : Qeeun of Hearts | Player 2 wins!
+Turn <174>:	Player 1 draws : Three of Spades <---> Player 2 draws : Jack of Clubs | Player 2 wins!
+Turn <175>:	Player 1 draws : Five of Hearts <---> Player 2 draws : King of Diamonds | Player 2 wins!
+Turn <176>:	Player 1 draws : Three of Clubs <---> Player 2 draws : Two of Diamonds | Player 1 wins!
+Turn <177>:	Player 1 draws : Nine of Spades <---> Player 2 draws : King of Hearts | Player 2 wins!
+Turn <178>:	Player 1 draws : Four of Spades <---> Player 2 draws : Ten of Hearts | Player 2 wins!
+Turn <179>:	Player 1 draws : Eight of Clubs <---> Player 2 draws : King of Spades | Player 2 wins!
+Turn <180>:	Player 1 draws : Eight of Spades <---> Player 2 draws : Ten of Diamonds | Player 2 wins!
+Turn <181>:	Player 1 draws : Ten of Spades <---> Player 2 draws : Jack of Diamonds | Player 2 wins!
+Turn <182>:	Player 1 draws : Five of Diamonds <---> Player 2 draws : Five of Spades | War !
+		Player 1 draws: Ten of Clubs <-> Player 2 draws: Eight of Hearts
+		Player 1 draws: Seven of Clubs <-> Player 2 draws: Jack of Hearts
+		Player 1 draws: Ace of Hearts <-> Player 2 draws: Ace of Diamonds
+-->		Player 1 draws: Seven of Hearts <-> Player 2 draws: Five of Clubs  | Player 1 wins!
+Turn <183>:	Player 1 draws : Nine of Clubs <---> Player 2 draws : King of Clubs | Player 2 wins!
+Turn <184>:	Player 1 draws : Qeeun of Spades <---> Player 2 draws : Seven of Spades | Player 1 wins!
+Turn <185>:	Player 1 draws : Ace of Clubs <---> Player 2 draws : Ace of Spades | War !
+		Player 1 draws: Two of Diamonds <-> Player 2 draws: Two of Spades
+		Player 1 draws: Three of Clubs <-> Player 2 draws: Nine of Hearts
+		Player 1 draws: Five of Spades <-> Player 2 draws: Four of Diamonds
+-->		Player 1 draws: Five of Diamonds <-> Player 2 draws: Qeeun of Clubs  | Player 2 wins!
+Turn <186>:	Player 1 draws : Eight of Hearts <---> Player 2 draws : Two of Hearts | Player 1 wins!
+Turn <187>:	Player 1 draws : Ten of Clubs <---> Player 2 draws : Four of Clubs | Player 1 wins!
+Turn <188>:	Player 1 draws : Jack of Hearts <---> Player 2 draws : Three of Diamonds | Player 1 wins!
+Turn <189>:	Player 1 draws : Seven of Clubs <---> Player 2 draws : Seven of Diamonds | War !
+		Player 1 draws: Ace of Diamonds <-> Player 2 draws: Three of Hearts
+		Player 1 draws: Ace of Hearts <-> Player 2 draws: Six of Spades
+		Player 1 draws: Five of Clubs <-> Player 2 draws: Four of Hearts
+-->		Player 1 draws: Seven of Hearts <-> Player 2 draws: Jack of Spades  | Player 2 wins!
+Turn <190>:	Player 1 draws : Seven of Spades <---> Player 2 draws : Two of Clubs | Player 1 wins!
+Turn <191>:	Player 1 draws : Qeeun of Spades <---> Player 2 draws : Six of Hearts | Player 1 wins!
+Turn <192>:	Player 1 draws : Two of Hearts <---> Player 2 draws : Six of Clubs | Player 2 wins!
+Turn <193>:	Player 1 draws : Eight of Hearts <---> Player 2 draws : Qeeun of Diamonds | Player 2 wins!
+Turn <194>:	Player 1 draws : Four of Clubs <---> Player 2 draws : Six of Diamonds | Player 2 wins!
+Turn <195>:	Player 1 draws : Ten of Clubs <---> Player 2 draws : Eight of Diamonds | Player 1 wins!
+Turn <196>:	Player 1 draws : Three of Diamonds <---> Player 2 draws : Nine of Diamonds | Player 2 wins!
+Turn <197>:	Player 1 draws : Jack of Hearts <---> Player 2 draws : Qeeun of Hearts | Player 2 wins!
+Turn <198>:	Player 1 draws : Two of Clubs <---> Player 2 draws : Three of Spades | Player 2 wins!
+Turn <199>:	Player 1 draws : Seven of Spades <---> Player 2 draws : Jack of Clubs | Player 2 wins!
+Turn <200>:	Player 1 draws : Six of Hearts <---> Player 2 draws : Five of Hearts | Player 1 wins!
+Turn <201>:	Player 1 draws : Qeeun of Spades <---> Player 2 draws : King of Diamonds | Player 2 wins!
+Turn <202>:	Player 1 draws : Eight of Diamonds <---> Player 2 draws : Nine of Spades | Player 2 wins!
+Turn <203>:	Player 1 draws : Ten of Clubs <---> Player 2 draws : King of Hearts | Player 2 wins!
+Turn <204>:	Player 1 draws : Five of Hearts <---> Player 2 draws : Four of Spades | Player 1 wins!
+Turn <205>:	Player 1 draws : Six of Hearts <---> Player 2 draws : Ten of Hearts | Player 2 wins!
+Turn <206>:	Player 1 draws : Four of Spades <---> Player 2 draws : Eight of Clubs | Player 2 wins!
+Turn <207>:	Player 1 draws : Five of Hearts <---> Player 2 draws : King of Spades | Player 2 wins!
+
+Player 2 is the winner!
+
+------------- Appen to file  -------------
+
+
+------ Starting simulation ------ 
+Turn <1>:	Player 1 draws : Jack of Diamonds <---> Player 2 draws : Eight of Hearts | Player 1 wins!
+Turn <2>:	Player 1 draws : Eight of Clubs <---> Player 2 draws : Qeeun of Diamonds | Player 2 wins!
+Turn <3>:	Player 1 draws : Qeeun of Clubs <---> Player 2 draws : Four of Clubs | Player 1 wins!
+Turn <4>:	Player 1 draws : Jack of Hearts <---> Player 2 draws : Nine of Diamonds | Player 1 wins!
+Turn <5>:	Player 1 draws : Ten of Spades <---> Player 2 draws : Five of Clubs | Player 1 wins!
+Turn <6>:	Player 1 draws : Seven of Clubs <---> Player 2 draws : Ten of Diamonds | Player 2 wins!
+Turn <7>:	Player 1 draws : Ace of Diamonds <---> Player 2 draws : Five of Spades | Player 1 wins!
+Turn <8>:	Player 1 draws : Six of Hearts <---> Player 2 draws : Six of Clubs | War !
+		Player 1 draws: Ace of Clubs <-> Player 2 draws: Four of Diamonds
+		Player 1 draws: King of Clubs <-> Player 2 draws: King of Hearts
+		Player 1 draws: Three of Clubs <-> Player 2 draws: Two of Diamonds
+-->		Player 1 draws: Two of Hearts <-> Player 2 draws: Three of Diamonds  | Player 2 wins!
+Turn <9>:	Player 1 draws : Nine of Spades <---> Player 2 draws : Two of Spades | Player 1 wins!
+Turn <10>:	Player 1 draws : Five of Diamonds <---> Player 2 draws : Ace of Hearts | Player 2 wins!
+Turn <11>:	Player 1 draws : Ten of Hearts <---> Player 2 draws : Four of Hearts | Player 1 wins!
+Turn <12>:	Player 1 draws : Five of Hearts <---> Player 2 draws : Six of Spades | Player 2 wins!
+Turn <13>:	Player 1 draws : Eight of Spades <---> Player 2 draws : Nine of Clubs | Player 2 wins!
+Turn <14>:	Player 1 draws : Ace of Spades <---> Player 2 draws : Nine of Hearts | Player 1 wins!
+Turn <15>:	Player 1 draws : Qeeun of Hearts <---> Player 2 draws : King of Spades | Player 2 wins!
+Turn <16>:	Player 1 draws : Seven of Spades <---> Player 2 draws : Three of Hearts | Player 1 wins!
+Turn <17>:	Player 1 draws : Eight of Diamonds <---> Player 2 draws : Jack of Clubs | Player 2 wins!
+Turn <18>:	Player 1 draws : Jack of Spades <---> Player 2 draws : Qeeun of Spades | Player 2 wins!
+Turn <19>:	Player 1 draws : Seven of Diamonds <---> Player 2 draws : King of Diamonds | Player 2 wins!
+Turn <20>:	Player 1 draws : Two of Clubs <---> Player 2 draws : Six of Diamonds | Player 2 wins!
+Turn <21>:	Player 1 draws : Three of Spades <---> Player 2 draws : Ten of Clubs | Player 2 wins!
+Turn <22>:	Player 1 draws : Seven of Hearts <---> Player 2 draws : Four of Spades | Player 1 wins!
+Turn <23>:	Player 1 draws : Eight of Hearts <---> Player 2 draws : Eight of Clubs | War !
+		Player 1 draws: Jack of Diamonds <-> Player 2 draws: Qeeun of Diamonds
+		Player 1 draws: Four of Clubs <-> Player 2 draws: Seven of Clubs
+		Player 1 draws: Qeeun of Clubs <-> Player 2 draws: Ten of Diamonds
+-->		Player 1 draws: Nine of Diamonds <-> Player 2 draws: Six of Hearts  | Player 1 wins!
+Turn <24>:	Player 1 draws : Jack of Hearts <---> Player 2 draws : Six of Clubs | Player 1 wins!
+Turn <25>:	Player 1 draws : Five of Clubs <---> Player 2 draws : Ace of Clubs | Player 2 wins!
+Turn <26>:	Player 1 draws : Ten of Spades <---> Player 2 draws : Four of Diamonds | Player 1 wins!
+Turn <27>:	Player 1 draws : Five of Spades <---> Player 2 draws : King of Clubs | Player 2 wins!
+Turn <28>:	Player 1 draws : Ace of Diamonds <---> Player 2 draws : King of Hearts | Player 1 wins!
+Turn <29>:	Player 1 draws : Two of Spades <---> Player 2 draws : Three of Clubs | Player 2 wins!
+Turn <30>:	Player 1 draws : Nine of Spades <---> Player 2 draws : Two of Diamonds | Player 1 wins!
+Turn <31>:	Player 1 draws : Four of Hearts <---> Player 2 draws : Two of Hearts | Player 1 wins!
+Turn <32>:	Player 1 draws : Ten of Hearts <---> Player 2 draws : Three of Diamonds | Player 1 wins!
+Turn <33>:	Player 1 draws : Nine of Hearts <---> Player 2 draws : Five of Diamonds | Player 1 wins!
+Turn <34>:	Player 1 draws : Ace of Spades <---> Player 2 draws : Ace of Hearts | War !
+		Player 1 draws: Three of Hearts <-> Player 2 draws: Five of Hearts
+		Player 1 draws: Seven of Spades <-> Player 2 draws: Six of Spades
+		Player 1 draws: Four of Spades <-> Player 2 draws: Eight of Spades
+-->		Player 1 draws: Seven of Hearts <-> Player 2 draws: Nine of Clubs  | Player 2 wins!
+Turn <35>:	Player 1 draws : Eight of Clubs <---> Player 2 draws : Qeeun of Hearts | Player 2 wins!
+Turn <36>:	Player 1 draws : Eight of Hearts <---> Player 2 draws : King of Spades | Player 2 wins!
+Turn <37>:	Player 1 draws : Qeeun of Diamonds <---> Player 2 draws : Eight of Diamonds | Player 1 wins!
+Turn <38>:	Player 1 draws : Jack of Diamonds <---> Player 2 draws : Jack of Clubs | War !
+		Player 1 draws: Seven of Clubs <-> Player 2 draws: Jack of Spades
+		Player 1 draws: Four of Clubs <-> Player 2 draws: Qeeun of Spades
+		Player 1 draws: Ten of Diamonds <-> Player 2 draws: Seven of Diamonds
+-->		Player 1 draws: Qeeun of Clubs <-> Player 2 draws: King of Diamonds  | Player 2 wins!
+Turn <39>:	Player 1 draws : Six of Hearts <---> Player 2 draws : Two of Clubs | Player 1 wins!
+Turn <40>:	Player 1 draws : Nine of Diamonds <---> Player 2 draws : Six of Diamonds | Player 1 wins!
+Turn <41>:	Player 1 draws : Six of Clubs <---> Player 2 draws : Three of Spades | Player 1 wins!
+Turn <42>:	Player 1 draws : Jack of Hearts <---> Player 2 draws : Ten of Clubs | Player 1 wins!
+Turn <43>:	Player 1 draws : Four of Diamonds <---> Player 2 draws : Five of Clubs | Player 2 wins!
+Turn <44>:	Player 1 draws : Ten of Spades <---> Player 2 draws : Ace of Clubs | Player 2 wins!
+Turn <45>:	Player 1 draws : King of Hearts <---> Player 2 draws : Five of Spades | Player 1 wins!
+Turn <46>:	Player 1 draws : Ace of Diamonds <---> Player 2 draws : King of Clubs | Player 1 wins!
+Turn <47>:	Player 1 draws : Two of Diamonds <---> Player 2 draws : Two of Spades | War !
+		Player 1 draws: Nine of Spades <-> Player 2 draws: Three of Clubs
+		Player 1 draws: Two of Hearts <-> Player 2 draws: Ace of Spades
+		Player 1 draws: Four of Hearts <-> Player 2 draws: Ace of Hearts
+-->		Player 1 draws: Three of Diamonds <-> Player 2 draws: Three of Hearts  |Turn <48>:	Player 1 draws : Nine of Spades <---> Player 2 draws : Three of Clubs | Player 1 wins!
+Turn <49>:	Player 1 draws : Two of Hearts <---> Player 2 draws : Ace of Spades | Player 2 wins!
+Turn <50>:	Player 1 draws : Four of Hearts <---> Player 2 draws : Ace of Hearts | Player 2 wins!
+Turn <51>:	Player 1 draws : Three of Diamonds <---> Player 2 draws : Three of Hearts | War !
+		Player 1 draws: Ten of Hearts <-> Player 2 draws: Five of Hearts
+		Player 1 draws: Five of Diamonds <-> Player 2 draws: Seven of Spades
+		Player 1 draws: Nine of Hearts <-> Player 2 draws: Six of Spades
+-->		Player 1 draws: Eight of Diamonds <-> Player 2 draws: Four of Spades  | Player 1 wins!
+Turn <52>:	Player 1 draws : Qeeun of Diamonds <---> Player 2 draws : Eight of Spades | Player 1 wins!
+Turn <53>:	Player 1 draws : Two of Clubs <---> Player 2 draws : Seven of Hearts | Player 2 wins!
+Turn <54>:	Player 1 draws : Six of Hearts <---> Player 2 draws : Nine of Clubs | Player 2 wins!
+Turn <55>:	Player 1 draws : Six of Diamonds <---> Player 2 draws : Eight of Clubs | Player 2 wins!
+Turn <56>:	Player 1 draws : Nine of Diamonds <---> Player 2 draws : Qeeun of Hearts | Player 2 wins!
+Turn <57>:	Player 1 draws : Three of Spades <---> Player 2 draws : Eight of Hearts | Player 2 wins!
+Turn <58>:	Player 1 draws : Six of Clubs <---> Player 2 draws : King of Spades | Player 2 wins!
+Turn <59>:	Player 1 draws : Ten of Clubs <---> Player 2 draws : Jack of Diamonds | Player 2 wins!
+Turn <60>:	Player 1 draws : Jack of Hearts <---> Player 2 draws : Jack of Clubs | War !
+		Player 1 draws: Five of Spades <-> Player 2 draws: Seven of Clubs
+		Player 1 draws: King of Hearts <-> Player 2 draws: Jack of Spades
+		Player 1 draws: King of Clubs <-> Player 2 draws: Four of Clubs
+-->		Player 1 draws: Ace of Diamonds <-> Player 2 draws: Qeeun of Spades  | Player 1 wins!
+Turn <61>:	Player 1 draws : Two of Diamonds <---> Player 2 draws : Ten of Diamonds | Player 2 wins!
+Turn <62>:	Player 1 draws : Three of Clubs <---> Player 2 draws : Seven of Diamonds | Player 2 wins!
+Turn <63>:	Player 1 draws : Nine of Spades <---> Player 2 draws : Qeeun of Clubs | Player 2 wins!
+Turn <64>:	Player 1 draws : Three of Hearts <---> Player 2 draws : King of Diamonds | Player 2 wins!
+Turn <65>:	Player 1 draws : Three of Diamonds <---> Player 2 draws : Four of Diamonds | Player 2 wins!
+Turn <66>:	Player 1 draws : Five of Hearts <---> Player 2 draws : Five of Clubs | War !
+		Player 1 draws: Ten of Hearts <-> Player 2 draws: Ten of Spades
+		Player 1 draws: Seven of Spades <-> Player 2 draws: Ace of Clubs
+		Player 1 draws: Five of Diamonds <-> Player 2 draws: Two of Spades
+-->		Player 1 draws: Six of Spades <-> Player 2 draws: Two of Hearts  | Player 1 wins!
+Turn <67>:	Player 1 draws : Nine of Hearts <---> Player 2 draws : Ace of Spades | Player 2 wins!
+Turn <68>:	Player 1 draws : Four of Spades <---> Player 2 draws : Four of Hearts | War !
+		Player 1 draws: Eight of Diamonds <-> Player 2 draws: Ace of Hearts
+		Player 1 draws: Eight of Spades <-> Player 2 draws: Two of Clubs
+		Player 1 draws: Qeeun of Diamonds <-> Player 2 draws: Seven of Hearts
+-->		Player 1 draws: Jack of Clubs <-> Player 2 draws: Six of Hearts  | Player 1 wins!
+Turn <69>:	Player 1 draws : Jack of Hearts <---> Player 2 draws : Nine of Clubs | Player 1 wins!
+Turn <70>:	Player 1 draws : Seven of Clubs <---> Player 2 draws : Six of Diamonds | Player 1 wins!
+Turn <71>:	Player 1 draws : Five of Spades <---> Player 2 draws : Eight of Clubs | Player 2 wins!
+Turn <72>:	Player 1 draws : Jack of Spades <---> Player 2 draws : Nine of Diamonds | Player 1 wins!
+Turn <73>:	Player 1 draws : King of Hearts <---> Player 2 draws : Qeeun of Hearts | Player 1 wins!
+Turn <74>:	Player 1 draws : Four of Clubs <---> Player 2 draws : Three of Spades | Player 1 wins!
+Turn <75>:	Player 1 draws : King of Clubs <---> Player 2 draws : Eight of Hearts | Player 1 wins!
+Turn <76>:	Player 1 draws : Qeeun of Spades <---> Player 2 draws : Six of Clubs | Player 1 wins!
+Turn <77>:	Player 1 draws : Ace of Diamonds <---> Player 2 draws : King of Spades | Player 1 wins!
+Turn <78>:	Player 1 draws : Five of Clubs <---> Player 2 draws : Ten of Clubs | Player 2 wins!
+Turn <79>:	Player 1 draws : Five of Hearts <---> Player 2 draws : Jack of Diamonds | Player 2 wins!
+Turn <80>:	Player 1 draws : Ten of Spades <---> Player 2 draws : Two of Diamonds | Player 1 wins!
+Turn <81>:	Player 1 draws : Ten of Hearts <---> Player 2 draws : Ten of Diamonds | War !
+		Player 1 draws: Ace of Clubs <-> Player 2 draws: Three of Clubs
+		Player 1 draws: Seven of Spades <-> Player 2 draws: Seven of Diamonds
+		Player 1 draws: Two of Spades <-> Player 2 draws: Nine of Spades
+-->		Player 1 draws: Five of Diamonds <-> Player 2 draws: Qeeun of Clubs  | Player 2 wins!
+Turn <82>:	Player 1 draws : Two of Hearts <---> Player 2 draws : Three of Hearts | Player 2 wins!
+Turn <83>:	Player 1 draws : Six of Spades <---> Player 2 draws : King of Diamonds | Player 2 wins!
+Turn <84>:	Player 1 draws : Four of Hearts <---> Player 2 draws : Three of Diamonds | Player 1 wins!
+Turn <85>:	Player 1 draws : Four of Spades <---> Player 2 draws : Four of Diamonds | War !
+		Player 1 draws: Ace of Hearts <-> Player 2 draws: Nine of Hearts
+		Player 1 draws: Eight of Diamonds <-> Player 2 draws: Ace of Spades
+		Player 1 draws: Two of Clubs <-> Player 2 draws: Five of Spades
+-->		Player 1 draws: Eight of Spades <-> Player 2 draws: Eight of Clubs  |Turn <86>:	Player 1 draws : Ace of Hearts <---> Player 2 draws : Nine of Hearts | Player 1 wins!
+Turn <87>:	Player 1 draws : Eight of Diamonds <---> Player 2 draws : Ace of Spades | Player 2 wins!
+Turn <88>:	Player 1 draws : Two of Clubs <---> Player 2 draws : Five of Spades | Player 2 wins!
+Turn <89>:	Player 1 draws : Eight of Spades <---> Player 2 draws : Eight of Clubs | War !
+		Player 1 draws: Seven of Hearts <-> Player 2 draws: Five of Clubs
+		Player 1 draws: Qeeun of Diamonds <-> Player 2 draws: Ten of Clubs
+		Player 1 draws: Six of Hearts <-> Player 2 draws: Five of Hearts
+-->		Player 1 draws: Jack of Clubs <-> Player 2 draws: Jack of Diamonds  |Turn <90>:	Player 1 draws : Seven of Hearts <---> Player 2 draws : Five of Clubs | Player 1 wins!
+Turn <91>:	Player 1 draws : Qeeun of Diamonds <---> Player 2 draws : Ten of Clubs | Player 1 wins!
+Turn <92>:	Player 1 draws : Six of Hearts <---> Player 2 draws : Five of Hearts | Player 1 wins!
+Turn <93>:	Player 1 draws : Jack of Clubs <---> Player 2 draws : Jack of Diamonds | War !
+		Player 1 draws: Nine of Clubs <-> Player 2 draws: Ten of Hearts
+		Player 1 draws: Jack of Hearts <-> Player 2 draws: Ten of Diamonds
+		Player 1 draws: Six of Diamonds <-> Player 2 draws: Ace of Clubs
+-->		Player 1 draws: Seven of Clubs <-> Player 2 draws: Three of Clubs  | Player 1 wins!
+Turn <94>:	Player 1 draws : Nine of Diamonds <---> Player 2 draws : Seven of Spades | Player 1 wins!
+Turn <95>:	Player 1 draws : Jack of Spades <---> Player 2 draws : Seven of Diamonds | Player 1 wins!
+Turn <96>:	Player 1 draws : Qeeun of Hearts <---> Player 2 draws : Two of Spades | Player 1 wins!
+Turn <97>:	Player 1 draws : King of Hearts <---> Player 2 draws : Nine of Spades | Player 1 wins!
+Turn <98>:	Player 1 draws : Three of Spades <---> Player 2 draws : Five of Diamonds | Player 2 wins!
+Turn <99>:	Player 1 draws : Four of Clubs <---> Player 2 draws : Qeeun of Clubs | Player 2 wins!
+Turn <100>:	Player 1 draws : Eight of Hearts <---> Player 2 draws : Two of Hearts | Player 1 wins!
+Turn <101>:	Player 1 draws : King of Clubs <---> Player 2 draws : Three of Hearts | Player 1 wins!
+Turn <102>:	Player 1 draws : Six of Clubs <---> Player 2 draws : Six of Spades | War !
+		Player 1 draws: Qeeun of Spades <-> Player 2 draws: King of Diamonds
+		Player 1 draws: King of Spades <-> Player 2 draws: Four of Diamonds
+		Player 1 draws: Ace of Diamonds <-> Player 2 draws: Eight of Diamonds
+-->		Player 1 draws: Two of Diamonds <-> Player 2 draws: Ace of Spades  | Player 2 wins!
+Turn <103>:	Player 1 draws : Ten of Spades <---> Player 2 draws : Two of Clubs | Player 1 wins!
+Turn <104>:	Player 1 draws : Three of Diamonds <---> Player 2 draws : Five of Spades | Player 2 wins!
+Turn <105>:	Player 1 draws : Four of Hearts <---> Player 2 draws : Eight of Clubs | Player 2 wins!
+Turn <106>:	Player 1 draws : Four of Spades <---> Player 2 draws : Three of Spades | Player 1 wins!
+Turn <107>:	Player 1 draws : Nine of Hearts <---> Player 2 draws : Five of Diamonds | Player 1 wins!
+Turn <108>:	Player 1 draws : Ace of Hearts <---> Player 2 draws : Four of Clubs | Player 1 wins!
+Turn <109>:	Player 1 draws : Eight of Spades <---> Player 2 draws : Qeeun of Clubs | Player 2 wins!
+Turn <110>:	Player 1 draws : Five of Clubs <---> Player 2 draws : Six of Clubs | Player 2 wins!
+Turn <111>:	Player 1 draws : Seven of Hearts <---> Player 2 draws : Six of Spades | Player 1 wins!
+Turn <112>:	Player 1 draws : Ten of Clubs <---> Player 2 draws : Qeeun of Spades | Player 2 wins!
+Turn <113>:	Player 1 draws : Qeeun of Diamonds <---> Player 2 draws : King of Diamonds | Player 2 wins!
+Turn <114>:	Player 1 draws : Five of Hearts <---> Player 2 draws : King of Spades | Player 2 wins!
+Turn <115>:	Player 1 draws : Six of Hearts <---> Player 2 draws : Four of Diamonds | Player 1 wins!
+Turn <116>:	Player 1 draws : Jack of Diamonds <---> Player 2 draws : Ace of Diamonds | Player 2 wins!
+Turn <117>:	Player 1 draws : Jack of Clubs <---> Player 2 draws : Eight of Diamonds | Player 1 wins!
+Turn <118>:	Player 1 draws : Ten of Hearts <---> Player 2 draws : Two of Diamonds | Player 1 wins!
+Turn <119>:	Player 1 draws : Nine of Clubs <---> Player 2 draws : Ace of Spades | Player 2 wins!
+Turn <120>:	Player 1 draws : Ten of Diamonds <---> Player 2 draws : Three of Diamonds | Player 1 wins!
+Turn <121>:	Player 1 draws : Jack of Hearts <---> Player 2 draws : Five of Spades | Player 1 wins!
+Turn <122>:	Player 1 draws : Ace of Clubs <---> Player 2 draws : Four of Hearts | Player 1 wins!
+Turn <123>:	Player 1 draws : Six of Diamonds <---> Player 2 draws : Eight of Clubs | Player 2 wins!
+Turn <124>:	Player 1 draws : Three of Clubs <---> Player 2 draws : Eight of Spades | Player 2 wins!
+Turn <125>:	Player 1 draws : Seven of Clubs <---> Player 2 draws : Qeeun of Clubs | Player 2 wins!
+Turn <126>:	Player 1 draws : Seven of Spades <---> Player 2 draws : Five of Clubs | Player 1 wins!
+Turn <127>:	Player 1 draws : Nine of Diamonds <---> Player 2 draws : Six of Clubs | Player 1 wins!
+Turn <128>:	Player 1 draws : Seven of Diamonds <---> Player 2 draws : Ten of Clubs | Player 2 wins!
+Turn <129>:	Player 1 draws : Jack of Spades <---> Player 2 draws : Qeeun of Spades | Player 2 wins!
+Turn <130>:	Player 1 draws : Two of Spades <---> Player 2 draws : Qeeun of Diamonds | Player 2 wins!
+Turn <131>:	Player 1 draws : Qeeun of Hearts <---> Player 2 draws : King of Diamonds | Player 2 wins!
+Turn <132>:	Player 1 draws : Nine of Spades <---> Player 2 draws : Five of Hearts | Player 1 wins!
+Turn <133>:	Player 1 draws : King of Hearts <---> Player 2 draws : King of Spades | War !
+		Player 1 draws: Two of Hearts <-> Player 2 draws: Jack of Diamonds
+		Player 1 draws: Eight of Hearts <-> Player 2 draws: Ace of Diamonds
+		Player 1 draws: Three of Hearts <-> Player 2 draws: Nine of Clubs
+-->		Player 1 draws: King of Clubs <-> Player 2 draws: Ace of Spades  | Player 2 wins!
+Turn <134>:	Player 1 draws : Two of Clubs <---> Player 2 draws : Six of Diamonds | Player 2 wins!
+Turn <135>:	Player 1 draws : Ten of Spades <---> Player 2 draws : Eight of Clubs | Player 1 wins!
+Turn <136>:	Player 1 draws : Three of Spades <---> Player 2 draws : Three of Clubs | War !
+		Player 1 draws: Four of Spades <-> Player 2 draws: Eight of Spades
+		Player 1 draws: Five of Diamonds <-> Player 2 draws: Seven of Clubs
+		Player 1 draws: Nine of Hearts <-> Player 2 draws: Qeeun of Clubs
+-->		Player 1 draws: Four of Clubs <-> Player 2 draws: Seven of Diamonds  | Player 2 wins!
+Turn <137>:	Player 1 draws : Ace of Hearts <---> Player 2 draws : Ten of Clubs | Player 1 wins!
+Turn <138>:	Player 1 draws : Six of Spades <---> Player 2 draws : Jack of Spades | Player 2 wins!
+Turn <139>:	Player 1 draws : Seven of Hearts <---> Player 2 draws : Qeeun of Spades | Player 2 wins!
+Turn <140>:	Player 1 draws : Four of Diamonds <---> Player 2 draws : Two of Spades | Player 1 wins!
+Turn <141>:	Player 1 draws : Six of Hearts <---> Player 2 draws : Qeeun of Diamonds | Player 2 wins!
+Turn <142>:	Player 1 draws : Eight of Diamonds <---> Player 2 draws : Qeeun of Hearts | Player 2 wins!
+Turn <143>:	Player 1 draws : Jack of Clubs <---> Player 2 draws : King of Diamonds | Player 2 wins!
+Turn <144>:	Player 1 draws : Two of Diamonds <---> Player 2 draws : King of Hearts | Player 2 wins!
+Turn <145>:	Player 1 draws : Ten of Hearts <---> Player 2 draws : King of Spades | Player 2 wins!
+Turn <146>:	Player 1 draws : Three of Diamonds <---> Player 2 draws : Two of Hearts | Player 1 wins!
+Turn <147>:	Player 1 draws : Ten of Diamonds <---> Player 2 draws : Jack of Diamonds | Player 2 wins!
+Turn <148>:	Player 1 draws : Five of Spades <---> Player 2 draws : Eight of Hearts | Player 2 wins!
+Turn <149>:	Player 1 draws : Jack of Hearts <---> Player 2 draws : Ace of Diamonds | Player 2 wins!
+Turn <150>:	Player 1 draws : Four of Hearts <---> Player 2 draws : Three of Hearts | Player 1 wins!
+Turn <151>:	Player 1 draws : Ace of Clubs <---> Player 2 draws : Nine of Clubs | Player 1 wins!
+Turn <152>:	Player 1 draws : Five of Clubs <---> Player 2 draws : King of Clubs | Player 2 wins!
+Turn <153>:	Player 1 draws : Seven of Spades <---> Player 2 draws : Ace of Spades | Player 2 wins!
+Turn <154>:	Player 1 draws : Six of Clubs <---> Player 2 draws : Two of Clubs | Player 1 wins!
+Turn <155>:	Player 1 draws : Nine of Diamonds <---> Player 2 draws : Six of Diamonds | Player 1 wins!
+Turn <156>:	Player 1 draws : Five of Hearts <---> Player 2 draws : Three of Spades | Player 1 wins!
+Turn <157>:	Player 1 draws : Nine of Spades <---> Player 2 draws : Three of Clubs | Player 1 wins!
+Turn <158>:	Player 1 draws : Eight of Clubs <---> Player 2 draws : Four of Spades | Player 1 wins!
+Turn <159>:	Player 1 draws : Ten of Spades <---> Player 2 draws : Eight of Spades | Player 1 wins!
+Turn <160>:	Player 1 draws : Ten of Clubs <---> Player 2 draws : Five of Diamonds | Player 1 wins!
+Turn <161>:	Player 1 draws : Ace of Hearts <---> Player 2 draws : Seven of Clubs | Player 1 wins!
+Turn <162>:	Player 1 draws : Two of Spades <---> Player 2 draws : Nine of Hearts | Player 2 wins!
+Turn <163>:	Player 1 draws : Four of Diamonds <---> Player 2 draws : Qeeun of Clubs | Player 2 wins!
+Turn <164>:	Player 1 draws : Two of Hearts <---> Player 2 draws : Four of Clubs | Player 2 wins!
+Turn <165>:	Player 1 draws : Three of Diamonds <---> Player 2 draws : Seven of Diamonds | Player 2 wins!
+Turn <166>:	Player 1 draws : Three of Hearts <---> Player 2 draws : Six of Spades | Player 2 wins!
+Turn <167>:	Player 1 draws : Four of Hearts <---> Player 2 draws : Jack of Spades | Player 2 wins!
+Turn <168>:	Player 1 draws : Nine of Clubs <---> Player 2 draws : Seven of Hearts | Player 1 wins!
+Turn <169>:	Player 1 draws : Ace of Clubs <---> Player 2 draws : Qeeun of Spades | Player 1 wins!
+Turn <170>:	Player 1 draws : Two of Clubs <---> Player 2 draws : Six of Hearts | Player 2 wins!
+Turn <171>:	Player 1 draws : Six of Clubs <---> Player 2 draws : Qeeun of Diamonds | Player 2 wins!
+Turn <172>:	Player 1 draws : Six of Diamonds <---> Player 2 draws : Eight of Diamonds | Player 2 wins!
+Turn <173>:	Player 1 draws : Nine of Diamonds <---> Player 2 draws : Qeeun of Hearts | Player 2 wins!
+Turn <174>:	Player 1 draws : Three of Spades <---> Player 2 draws : Jack of Clubs | Player 2 wins!
+Turn <175>:	Player 1 draws : Five of Hearts <---> Player 2 draws : King of Diamonds | Player 2 wins!
+Turn <176>:	Player 1 draws : Three of Clubs <---> Player 2 draws : Two of Diamonds | Player 1 wins!
+Turn <177>:	Player 1 draws : Nine of Spades <---> Player 2 draws : King of Hearts | Player 2 wins!
+Turn <178>:	Player 1 draws : Four of Spades <---> Player 2 draws : Ten of Hearts | Player 2 wins!
+Turn <179>:	Player 1 draws : Eight of Clubs <---> Player 2 draws : King of Spades | Player 2 wins!
+Turn <180>:	Player 1 draws : Eight of Spades <---> Player 2 draws : Ten of Diamonds | Player 2 wins!
+Turn <181>:	Player 1 draws : Ten of Spades <---> Player 2 draws : Jack of Diamonds | Player 2 wins!
+Turn <182>:	Player 1 draws : Five of Diamonds <---> Player 2 draws : Five of Spades | War !
+		Player 1 draws: Ten of Clubs <-> Player 2 draws: Eight of Hearts
+		Player 1 draws: Seven of Clubs <-> Player 2 draws: Jack of Hearts
+		Player 1 draws: Ace of Hearts <-> Player 2 draws: Ace of Diamonds
+-->		Player 1 draws: Seven of Hearts <-> Player 2 draws: Five of Clubs  | Player 1 wins!
+Turn <183>:	Player 1 draws : Nine of Clubs <---> Player 2 draws : King of Clubs | Player 2 wins!
+Turn <184>:	Player 1 draws : Qeeun of Spades <---> Player 2 draws : Seven of Spades | Player 1 wins!
+Turn <185>:	Player 1 draws : Ace of Clubs <---> Player 2 draws : Ace of Spades | War !
+		Player 1 draws: Two of Diamonds <-> Player 2 draws: Two of Spades
+		Player 1 draws: Three of Clubs <-> Player 2 draws: Nine of Hearts
+		Player 1 draws: Five of Spades <-> Player 2 draws: Four of Diamonds
+-->		Player 1 draws: Five of Diamonds <-> Player 2 draws: Qeeun of Clubs  | Player 2 wins!
+Turn <186>:	Player 1 draws : Eight of Hearts <---> Player 2 draws : Two of Hearts | Player 1 wins!
+Turn <187>:	Player 1 draws : Ten of Clubs <---> Player 2 draws : Four of Clubs | Player 1 wins!
+Turn <188>:	Player 1 draws : Jack of Hearts <---> Player 2 draws : Three of Diamonds | Player 1 wins!
+Turn <189>:	Player 1 draws : Seven of Clubs <---> Player 2 draws : Seven of Diamonds | War !
+		Player 1 draws: Ace of Diamonds <-> Player 2 draws: Three of Hearts
+		Player 1 draws: Ace of Hearts <-> Player 2 draws: Six of Spades
+		Player 1 draws: Five of Clubs <-> Player 2 draws: Four of Hearts
+-->		Player 1 draws: Seven of Hearts <-> Player 2 draws: Jack of Spades  | Player 2 wins!
+Turn <190>:	Player 1 draws : Seven of Spades <---> Player 2 draws : Two of Clubs | Player 1 wins!
+Turn <191>:	Player 1 draws : Qeeun of Spades <---> Player 2 draws : Six of Hearts | Player 1 wins!
+Turn <192>:	Player 1 draws : Two of Hearts <---> Player 2 draws : Six of Clubs | Player 2 wins!
+Turn <193>:	Player 1 draws : Eight of Hearts <---> Player 2 draws : Qeeun of Diamonds | Player 2 wins!
+Turn <194>:	Player 1 draws : Four of Clubs <---> Player 2 draws : Six of Diamonds | Player 2 wins!
+Turn <195>:	Player 1 draws : Ten of Clubs <---> Player 2 draws : Eight of Diamonds | Player 1 wins!
+Turn <196>:	Player 1 draws : Three of Diamonds <---> Player 2 draws : Nine of Diamonds | Player 2 wins!
+Turn <197>:	Player 1 draws : Jack of Hearts <---> Player 2 draws : Qeeun of Hearts | Player 2 wins!
+Turn <198>:	Player 1 draws : Two of Clubs <---> Player 2 draws : Three of Spades | Player 2 wins!
+Turn <199>:	Player 1 draws : Seven of Spades <---> Player 2 draws : Jack of Clubs | Player 2 wins!
+Turn <200>:	Player 1 draws : Six of Hearts <---> Player 2 draws : Five of Hearts | Player 1 wins!
+Turn <201>:	Player 1 draws : Qeeun of Spades <---> Player 2 draws : King of Diamonds | Player 2 wins!
+Turn <202>:	Player 1 draws : Eight of Diamonds <---> Player 2 draws : Nine of Spades | Player 2 wins!
+Turn <203>:	Player 1 draws : Ten of Clubs <---> Player 2 draws : King of Hearts | Player 2 wins!
+Turn <204>:	Player 1 draws : Five of Hearts <---> Player 2 draws : Four of Spades | Player 1 wins!
+Turn <205>:	Player 1 draws : Six of Hearts <---> Player 2 draws : Ten of Hearts | Player 2 wins!
+Turn <206>:	Player 1 draws : Four of Spades <---> Player 2 draws : Eight of Clubs | Player 2 wins!
+Turn <207>:	Player 1 draws : Five of Hearts <---> Player 2 draws : King of Spades | Player 2 wins!
+
+Player 2 is the winner!
+
+------------- Appen to file  -------------
+
+
+------ Starting simulation ------ 
+Turn <1>:	Player 1 draws : Jack of Diamonds <---> Player 2 draws : Eight of Hearts | Player 1 wins!
+Turn <2>:	Player 1 draws : Eight of Clubs <---> Player 2 draws : Qeeun of Diamonds | Player 2 wins!
+Turn <3>:	Player 1 draws : Qeeun of Clubs <---> Player 2 draws : Four of Clubs | Player 1 wins!
+Turn <4>:	Player 1 draws : Jack of Hearts <---> Player 2 draws : Nine of Diamonds | Player 1 wins!
+Turn <5>:	Player 1 draws : Ten of Spades <---> Player 2 draws : Five of Clubs | Player 1 wins!
+Turn <6>:	Player 1 draws : Seven of Clubs <---> Player 2 draws : Ten of Diamonds | Player 2 wins!
+Turn <7>:	Player 1 draws : Ace of Diamonds <---> Player 2 draws : Five of Spades | Player 1 wins!
+Turn <8>:	Player 1 draws : Six of Hearts <---> Player 2 draws : Six of Clubs | War !
+		Player 1 draws: Ace of Clubs <-> Player 2 draws: Four of Diamonds
+		Player 1 draws: King of Clubs <-> Player 2 draws: King of Hearts
+		Player 1 draws: Three of Clubs <-> Player 2 draws: Two of Diamonds
+-->		Player 1 draws: Two of Hearts <-> Player 2 draws: Three of Diamonds  | Player 2 wins!
+Turn <9>:	Player 1 draws : Nine of Spades <---> Player 2 draws : Two of Spades | Player 1 wins!
+Turn <10>:	Player 1 draws : Five of Diamonds <---> Player 2 draws : Ace of Hearts | Player 2 wins!
+Turn <11>:	Player 1 draws : Ten of Hearts <---> Player 2 draws : Four of Hearts | Player 1 wins!
+Turn <12>:	Player 1 draws : Five of Hearts <---> Player 2 draws : Six of Spades | Player 2 wins!
+Turn <13>:	Player 1 draws : Eight of Spades <---> Player 2 draws : Nine of Clubs | Player 2 wins!
+Turn <14>:	Player 1 draws : Ace of Spades <---> Player 2 draws : Nine of Hearts | Player 1 wins!
+Turn <15>:	Player 1 draws : Qeeun of Hearts <---> Player 2 draws : King of Spades | Player 2 wins!
+Turn <16>:	Player 1 draws : Seven of Spades <---> Player 2 draws : Three of Hearts | Player 1 wins!
+Turn <17>:	Player 1 draws : Eight of Diamonds <---> Player 2 draws : Jack of Clubs | Player 2 wins!
+Turn <18>:	Player 1 draws : Jack of Spades <---> Player 2 draws : Qeeun of Spades | Player 2 wins!
+Turn <19>:	Player 1 draws : Seven of Diamonds <---> Player 2 draws : King of Diamonds | Player 2 wins!
+Turn <20>:	Player 1 draws : Two of Clubs <---> Player 2 draws : Six of Diamonds | Player 2 wins!
+Turn <21>:	Player 1 draws : Three of Spades <---> Player 2 draws : Ten of Clubs | Player 2 wins!
+Turn <22>:	Player 1 draws : Seven of Hearts <---> Player 2 draws : Four of Spades | Player 1 wins!
+Turn <23>:	Player 1 draws : Eight of Hearts <---> Player 2 draws : Eight of Clubs | War !
+		Player 1 draws: Jack of Diamonds <-> Player 2 draws: Qeeun of Diamonds
+		Player 1 draws: Four of Clubs <-> Player 2 draws: Seven of Clubs
+		Player 1 draws: Qeeun of Clubs <-> Player 2 draws: Ten of Diamonds
+-->		Player 1 draws: Nine of Diamonds <-> Player 2 draws: Six of Hearts  | Player 1 wins!
+Turn <24>:	Player 1 draws : Jack of Hearts <---> Player 2 draws : Six of Clubs | Player 1 wins!
+Turn <25>:	Player 1 draws : Five of Clubs <---> Player 2 draws : Ace of Clubs | Player 2 wins!
+Turn <26>:	Player 1 draws : Ten of Spades <---> Player 2 draws : Four of Diamonds | Player 1 wins!
+Turn <27>:	Player 1 draws : Five of Spades <---> Player 2 draws : King of Clubs | Player 2 wins!
+Turn <28>:	Player 1 draws : Ace of Diamonds <---> Player 2 draws : King of Hearts | Player 1 wins!
+Turn <29>:	Player 1 draws : Two of Spades <---> Player 2 draws : Three of Clubs | Player 2 wins!
+Turn <30>:	Player 1 draws : Nine of Spades <---> Player 2 draws : Two of Diamonds | Player 1 wins!
+Turn <31>:	Player 1 draws : Four of Hearts <---> Player 2 draws : Two of Hearts | Player 1 wins!
+Turn <32>:	Player 1 draws : Ten of Hearts <---> Player 2 draws : Three of Diamonds | Player 1 wins!
+Turn <33>:	Player 1 draws : Nine of Hearts <---> Player 2 draws : Five of Diamonds | Player 1 wins!
+Turn <34>:	Player 1 draws : Ace of Spades <---> Player 2 draws : Ace of Hearts | War !
+		Player 1 draws: Three of Hearts <-> Player 2 draws: Five of Hearts
+		Player 1 draws: Seven of Spades <-> Player 2 draws: Six of Spades
+		Player 1 draws: Four of Spades <-> Player 2 draws: Eight of Spades
+-->		Player 1 draws: Seven of Hearts <-> Player 2 draws: Nine of Clubs  | Player 2 wins!
+Turn <35>:	Player 1 draws : Eight of Clubs <---> Player 2 draws : Qeeun of Hearts | Player 2 wins!
+Turn <36>:	Player 1 draws : Eight of Hearts <---> Player 2 draws : King of Spades | Player 2 wins!
+Turn <37>:	Player 1 draws : Qeeun of Diamonds <---> Player 2 draws : Eight of Diamonds | Player 1 wins!
+Turn <38>:	Player 1 draws : Jack of Diamonds <---> Player 2 draws : Jack of Clubs | War !
+		Player 1 draws: Seven of Clubs <-> Player 2 draws: Jack of Spades
+		Player 1 draws: Four of Clubs <-> Player 2 draws: Qeeun of Spades
+		Player 1 draws: Ten of Diamonds <-> Player 2 draws: Seven of Diamonds
+-->		Player 1 draws: Qeeun of Clubs <-> Player 2 draws: King of Diamonds  | Player 2 wins!
+Turn <39>:	Player 1 draws : Six of Hearts <---> Player 2 draws : Two of Clubs | Player 1 wins!
+Turn <40>:	Player 1 draws : Nine of Diamonds <---> Player 2 draws : Six of Diamonds | Player 1 wins!
+Turn <41>:	Player 1 draws : Six of Clubs <---> Player 2 draws : Three of Spades | Player 1 wins!
+Turn <42>:	Player 1 draws : Jack of Hearts <---> Player 2 draws : Ten of Clubs | Player 1 wins!
+Turn <43>:	Player 1 draws : Four of Diamonds <---> Player 2 draws : Five of Clubs | Player 2 wins!
+Turn <44>:	Player 1 draws : Ten of Spades <---> Player 2 draws : Ace of Clubs | Player 2 wins!
+Turn <45>:	Player 1 draws : King of Hearts <---> Player 2 draws : Five of Spades | Player 1 wins!
+Turn <46>:	Player 1 draws : Ace of Diamonds <---> Player 2 draws : King of Clubs | Player 1 wins!
+Turn <47>:	Player 1 draws : Two of Diamonds <---> Player 2 draws : Two of Spades | War !
+		Player 1 draws: Nine of Spades <-> Player 2 draws: Three of Clubs
+		Player 1 draws: Two of Hearts <-> Player 2 draws: Ace of Spades
+		Player 1 draws: Four of Hearts <-> Player 2 draws: Ace of Hearts
+-->		Player 1 draws: Three of Diamonds <-> Player 2 draws: Three of Hearts  |Turn <48>:	Player 1 draws : Nine of Spades <---> Player 2 draws : Three of Clubs | Player 1 wins!
+Turn <49>:	Player 1 draws : Two of Hearts <---> Player 2 draws : Ace of Spades | Player 2 wins!
+Turn <50>:	Player 1 draws : Four of Hearts <---> Player 2 draws : Ace of Hearts | Player 2 wins!
+Turn <51>:	Player 1 draws : Three of Diamonds <---> Player 2 draws : Three of Hearts | War !
+		Player 1 draws: Ten of Hearts <-> Player 2 draws: Five of Hearts
+		Player 1 draws: Five of Diamonds <-> Player 2 draws: Seven of Spades
+		Player 1 draws: Nine of Hearts <-> Player 2 draws: Six of Spades
+-->		Player 1 draws: Eight of Diamonds <-> Player 2 draws: Four of Spades  | Player 1 wins!
+Turn <52>:	Player 1 draws : Qeeun of Diamonds <---> Player 2 draws : Eight of Spades | Player 1 wins!
+Turn <53>:	Player 1 draws : Two of Clubs <---> Player 2 draws : Seven of Hearts | Player 2 wins!
+Turn <54>:	Player 1 draws : Six of Hearts <---> Player 2 draws : Nine of Clubs | Player 2 wins!
+Turn <55>:	Player 1 draws : Six of Diamonds <---> Player 2 draws : Eight of Clubs | Player 2 wins!
+Turn <56>:	Player 1 draws : Nine of Diamonds <---> Player 2 draws : Qeeun of Hearts | Player 2 wins!
+Turn <57>:	Player 1 draws : Three of Spades <---> Player 2 draws : Eight of Hearts | Player 2 wins!
+Turn <58>:	Player 1 draws : Six of Clubs <---> Player 2 draws : King of Spades | Player 2 wins!
+Turn <59>:	Player 1 draws : Ten of Clubs <---> Player 2 draws : Jack of Diamonds | Player 2 wins!
+Turn <60>:	Player 1 draws : Jack of Hearts <---> Player 2 draws : Jack of Clubs | War !
+		Player 1 draws: Five of Spades <-> Player 2 draws: Seven of Clubs
+		Player 1 draws: King of Hearts <-> Player 2 draws: Jack of Spades
+		Player 1 draws: King of Clubs <-> Player 2 draws: Four of Clubs
+-->		Player 1 draws: Ace of Diamonds <-> Player 2 draws: Qeeun of Spades  | Player 1 wins!
+Turn <61>:	Player 1 draws : Two of Diamonds <---> Player 2 draws : Ten of Diamonds | Player 2 wins!
+Turn <62>:	Player 1 draws : Three of Clubs <---> Player 2 draws : Seven of Diamonds | Player 2 wins!
+Turn <63>:	Player 1 draws : Nine of Spades <---> Player 2 draws : Qeeun of Clubs | Player 2 wins!
+Turn <64>:	Player 1 draws : Three of Hearts <---> Player 2 draws : King of Diamonds | Player 2 wins!
+Turn <65>:	Player 1 draws : Three of Diamonds <---> Player 2 draws : Four of Diamonds | Player 2 wins!
+Turn <66>:	Player 1 draws : Five of Hearts <---> Player 2 draws : Five of Clubs | War !
+		Player 1 draws: Ten of Hearts <-> Player 2 draws: Ten of Spades
+		Player 1 draws: Seven of Spades <-> Player 2 draws: Ace of Clubs
+		Player 1 draws: Five of Diamonds <-> Player 2 draws: Two of Spades
+-->		Player 1 draws: Six of Spades <-> Player 2 draws: Two of Hearts  | Player 1 wins!
+Turn <67>:	Player 1 draws : Nine of Hearts <---> Player 2 draws : Ace of Spades | Player 2 wins!
+Turn <68>:	Player 1 draws : Four of Spades <---> Player 2 draws : Four of Hearts | War !
+		Player 1 draws: Eight of Diamonds <-> Player 2 draws: Ace of Hearts
+		Player 1 draws: Eight of Spades <-> Player 2 draws: Two of Clubs
+		Player 1 draws: Qeeun of Diamonds <-> Player 2 draws: Seven of Hearts
+-->		Player 1 draws: Jack of Clubs <-> Player 2 draws: Six of Hearts  | Player 1 wins!
+Turn <69>:	Player 1 draws : Jack of Hearts <---> Player 2 draws : Nine of Clubs | Player 1 wins!
+Turn <70>:	Player 1 draws : Seven of Clubs <---> Player 2 draws : Six of Diamonds | Player 1 wins!
+Turn <71>:	Player 1 draws : Five of Spades <---> Player 2 draws : Eight of Clubs | Player 2 wins!
+Turn <72>:	Player 1 draws : Jack of Spades <---> Player 2 draws : Nine of Diamonds | Player 1 wins!
+Turn <73>:	Player 1 draws : King of Hearts <---> Player 2 draws : Qeeun of Hearts | Player 1 wins!
+Turn <74>:	Player 1 draws : Four of Clubs <---> Player 2 draws : Three of Spades | Player 1 wins!
+Turn <75>:	Player 1 draws : King of Clubs <---> Player 2 draws : Eight of Hearts | Player 1 wins!
+Turn <76>:	Player 1 draws : Qeeun of Spades <---> Player 2 draws : Six of Clubs | Player 1 wins!
+Turn <77>:	Player 1 draws : Ace of Diamonds <---> Player 2 draws : King of Spades | Player 1 wins!
+Turn <78>:	Player 1 draws : Five of Clubs <---> Player 2 draws : Ten of Clubs | Player 2 wins!
+Turn <79>:	Player 1 draws : Five of Hearts <---> Player 2 draws : Jack of Diamonds | Player 2 wins!
+Turn <80>:	Player 1 draws : Ten of Spades <---> Player 2 draws : Two of Diamonds | Player 1 wins!
+Turn <81>:	Player 1 draws : Ten of Hearts <---> Player 2 draws : Ten of Diamonds | War !
+		Player 1 draws: Ace of Clubs <-> Player 2 draws: Three of Clubs
+		Player 1 draws: Seven of Spades <-> Player 2 draws: Seven of Diamonds
+		Player 1 draws: Two of Spades <-> Player 2 draws: Nine of Spades
+-->		Player 1 draws: Five of Diamonds <-> Player 2 draws: Qeeun of Clubs  | Player 2 wins!
+Turn <82>:	Player 1 draws : Two of Hearts <---> Player 2 draws : Three of Hearts | Player 2 wins!
+Turn <83>:	Player 1 draws : Six of Spades <---> Player 2 draws : King of Diamonds | Player 2 wins!
+Turn <84>:	Player 1 draws : Four of Hearts <---> Player 2 draws : Three of Diamonds | Player 1 wins!
+Turn <85>:	Player 1 draws : Four of Spades <---> Player 2 draws : Four of Diamonds | War !
+		Player 1 draws: Ace of Hearts <-> Player 2 draws: Nine of Hearts
+		Player 1 draws: Eight of Diamonds <-> Player 2 draws: Ace of Spades
+		Player 1 draws: Two of Clubs <-> Player 2 draws: Five of Spades
+-->		Player 1 draws: Eight of Spades <-> Player 2 draws: Eight of Clubs  |Turn <86>:	Player 1 draws : Ace of Hearts <---> Player 2 draws : Nine of Hearts | Player 1 wins!
+Turn <87>:	Player 1 draws : Eight of Diamonds <---> Player 2 draws : Ace of Spades | Player 2 wins!
+Turn <88>:	Player 1 draws : Two of Clubs <---> Player 2 draws : Five of Spades | Player 2 wins!
+Turn <89>:	Player 1 draws : Eight of Spades <---> Player 2 draws : Eight of Clubs | War !
+		Player 1 draws: Seven of Hearts <-> Player 2 draws: Five of Clubs
+		Player 1 draws: Qeeun of Diamonds <-> Player 2 draws: Ten of Clubs
+		Player 1 draws: Six of Hearts <-> Player 2 draws: Five of Hearts
+-->		Player 1 draws: Jack of Clubs <-> Player 2 draws: Jack of Diamonds  |Turn <90>:	Player 1 draws : Seven of Hearts <---> Player 2 draws : Five of Clubs | Player 1 wins!
+Turn <91>:	Player 1 draws : Qeeun of Diamonds <---> Player 2 draws : Ten of Clubs | Player 1 wins!
+Turn <92>:	Player 1 draws : Six of Hearts <---> Player 2 draws : Five of Hearts | Player 1 wins!
+Turn <93>:	Player 1 draws : Jack of Clubs <---> Player 2 draws : Jack of Diamonds | War !
+		Player 1 draws: Nine of Clubs <-> Player 2 draws: Ten of Hearts
+		Player 1 draws: Jack of Hearts <-> Player 2 draws: Ten of Diamonds
+		Player 1 draws: Six of Diamonds <-> Player 2 draws: Ace of Clubs
+-->		Player 1 draws: Seven of Clubs <-> Player 2 draws: Three of Clubs  | Player 1 wins!
+Turn <94>:	Player 1 draws : Nine of Diamonds <---> Player 2 draws : Seven of Spades | Player 1 wins!
+Turn <95>:	Player 1 draws : Jack of Spades <---> Player 2 draws : Seven of Diamonds | Player 1 wins!
+Turn <96>:	Player 1 draws : Qeeun of Hearts <---> Player 2 draws : Two of Spades | Player 1 wins!
+Turn <97>:	Player 1 draws : King of Hearts <---> Player 2 draws : Nine of Spades | Player 1 wins!
+Turn <98>:	Player 1 draws : Three of Spades <---> Player 2 draws : Five of Diamonds | Player 2 wins!
+Turn <99>:	Player 1 draws : Four of Clubs <---> Player 2 draws : Qeeun of Clubs | Player 2 wins!
+Turn <100>:	Player 1 draws : Eight of Hearts <---> Player 2 draws : Two of Hearts | Player 1 wins!
+Turn <101>:	Player 1 draws : King of Clubs <---> Player 2 draws : Three of Hearts | Player 1 wins!
+Turn <102>:	Player 1 draws : Six of Clubs <---> Player 2 draws : Six of Spades | War !
+		Player 1 draws: Qeeun of Spades <-> Player 2 draws: King of Diamonds
+		Player 1 draws: King of Spades <-> Player 2 draws: Four of Diamonds
+		Player 1 draws: Ace of Diamonds <-> Player 2 draws: Eight of Diamonds
+-->		Player 1 draws: Two of Diamonds <-> Player 2 draws: Ace of Spades  | Player 2 wins!
+Turn <103>:	Player 1 draws : Ten of Spades <---> Player 2 draws : Two of Clubs | Player 1 wins!
+Turn <104>:	Player 1 draws : Three of Diamonds <---> Player 2 draws : Five of Spades | Player 2 wins!
+Turn <105>:	Player 1 draws : Four of Hearts <---> Player 2 draws : Eight of Clubs | Player 2 wins!
+Turn <106>:	Player 1 draws : Four of Spades <---> Player 2 draws : Three of Spades | Player 1 wins!
+Turn <107>:	Player 1 draws : Nine of Hearts <---> Player 2 draws : Five of Diamonds | Player 1 wins!
+Turn <108>:	Player 1 draws : Ace of Hearts <---> Player 2 draws : Four of Clubs | Player 1 wins!
+Turn <109>:	Player 1 draws : Eight of Spades <---> Player 2 draws : Qeeun of Clubs | Player 2 wins!
+Turn <110>:	Player 1 draws : Five of Clubs <---> Player 2 draws : Six of Clubs | Player 2 wins!
+Turn <111>:	Player 1 draws : Seven of Hearts <---> Player 2 draws : Six of Spades | Player 1 wins!
+Turn <112>:	Player 1 draws : Ten of Clubs <---> Player 2 draws : Qeeun of Spades | Player 2 wins!
+Turn <113>:	Player 1 draws : Qeeun of Diamonds <---> Player 2 draws : King of Diamonds | Player 2 wins!
+Turn <114>:	Player 1 draws : Five of Hearts <---> Player 2 draws : King of Spades | Player 2 wins!
+Turn <115>:	Player 1 draws : Six of Hearts <---> Player 2 draws : Four of Diamonds | Player 1 wins!
+Turn <116>:	Player 1 draws : Jack of Diamonds <---> Player 2 draws : Ace of Diamonds | Player 2 wins!
+Turn <117>:	Player 1 draws : Jack of Clubs <---> Player 2 draws : Eight of Diamonds | Player 1 wins!
+Turn <118>:	Player 1 draws : Ten of Hearts <---> Player 2 draws : Two of Diamonds | Player 1 wins!
+Turn <119>:	Player 1 draws : Nine of Clubs <---> Player 2 draws : Ace of Spades | Player 2 wins!
+Turn <120>:	Player 1 draws : Ten of Diamonds <---> Player 2 draws : Three of Diamonds | Player 1 wins!
+Turn <121>:	Player 1 draws : Jack of Hearts <---> Player 2 draws : Five of Spades | Player 1 wins!
+Turn <122>:	Player 1 draws : Ace of Clubs <---> Player 2 draws : Four of Hearts | Player 1 wins!
+Turn <123>:	Player 1 draws : Six of Diamonds <---> Player 2 draws : Eight of Clubs | Player 2 wins!
+Turn <124>:	Player 1 draws : Three of Clubs <---> Player 2 draws : Eight of Spades | Player 2 wins!
+Turn <125>:	Player 1 draws : Seven of Clubs <---> Player 2 draws : Qeeun of Clubs | Player 2 wins!
+Turn <126>:	Player 1 draws : Seven of Spades <---> Player 2 draws : Five of Clubs | Player 1 wins!
+Turn <127>:	Player 1 draws : Nine of Diamonds <---> Player 2 draws : Six of Clubs | Player 1 wins!
+Turn <128>:	Player 1 draws : Seven of Diamonds <---> Player 2 draws : Ten of Clubs | Player 2 wins!
+Turn <129>:	Player 1 draws : Jack of Spades <---> Player 2 draws : Qeeun of Spades | Player 2 wins!
+Turn <130>:	Player 1 draws : Two of Spades <---> Player 2 draws : Qeeun of Diamonds | Player 2 wins!
+Turn <131>:	Player 1 draws : Qeeun of Hearts <---> Player 2 draws : King of Diamonds | Player 2 wins!
+Turn <132>:	Player 1 draws : Nine of Spades <---> Player 2 draws : Five of Hearts | Player 1 wins!
+Turn <133>:	Player 1 draws : King of Hearts <---> Player 2 draws : King of Spades | War !
+		Player 1 draws: Two of Hearts <-> Player 2 draws: Jack of Diamonds
+		Player 1 draws: Eight of Hearts <-> Player 2 draws: Ace of Diamonds
+		Player 1 draws: Three of Hearts <-> Player 2 draws: Nine of Clubs
+-->		Player 1 draws: King of Clubs <-> Player 2 draws: Ace of Spades  | Player 2 wins!
+Turn <134>:	Player 1 draws : Two of Clubs <---> Player 2 draws : Six of Diamonds | Player 2 wins!
+Turn <135>:	Player 1 draws : Ten of Spades <---> Player 2 draws : Eight of Clubs | Player 1 wins!
+Turn <136>:	Player 1 draws : Three of Spades <---> Player 2 draws : Three of Clubs | War !
+		Player 1 draws: Four of Spades <-> Player 2 draws: Eight of Spades
+		Player 1 draws: Five of Diamonds <-> Player 2 draws: Seven of Clubs
+		Player 1 draws: Nine of Hearts <-> Player 2 draws: Qeeun of Clubs
+-->		Player 1 draws: Four of Clubs <-> Player 2 draws: Seven of Diamonds  | Player 2 wins!
+Turn <137>:	Player 1 draws : Ace of Hearts <---> Player 2 draws : Ten of Clubs | Player 1 wins!
+Turn <138>:	Player 1 draws : Six of Spades <---> Player 2 draws : Jack of Spades | Player 2 wins!
+Turn <139>:	Player 1 draws : Seven of Hearts <---> Player 2 draws : Qeeun of Spades | Player 2 wins!
+Turn <140>:	Player 1 draws : Four of Diamonds <---> Player 2 draws : Two of Spades | Player 1 wins!
+Turn <141>:	Player 1 draws : Six of Hearts <---> Player 2 draws : Qeeun of Diamonds | Player 2 wins!
+Turn <142>:	Player 1 draws : Eight of Diamonds <---> Player 2 draws : Qeeun of Hearts | Player 2 wins!
+Turn <143>:	Player 1 draws : Jack of Clubs <---> Player 2 draws : King of Diamonds | Player 2 wins!
+Turn <144>:	Player 1 draws : Two of Diamonds <---> Player 2 draws : King of Hearts | Player 2 wins!
+Turn <145>:	Player 1 draws : Ten of Hearts <---> Player 2 draws : King of Spades | Player 2 wins!
+Turn <146>:	Player 1 draws : Three of Diamonds <---> Player 2 draws : Two of Hearts | Player 1 wins!
+Turn <147>:	Player 1 draws : Ten of Diamonds <---> Player 2 draws : Jack of Diamonds | Player 2 wins!
+Turn <148>:	Player 1 draws : Five of Spades <---> Player 2 draws : Eight of Hearts | Player 2 wins!
+Turn <149>:	Player 1 draws : Jack of Hearts <---> Player 2 draws : Ace of Diamonds | Player 2 wins!
+Turn <150>:	Player 1 draws : Four of Hearts <---> Player 2 draws : Three of Hearts | Player 1 wins!
+Turn <151>:	Player 1 draws : Ace of Clubs <---> Player 2 draws : Nine of Clubs | Player 1 wins!
+Turn <152>:	Player 1 draws : Five of Clubs <---> Player 2 draws : King of Clubs | Player 2 wins!
+Turn <153>:	Player 1 draws : Seven of Spades <---> Player 2 draws : Ace of Spades | Player 2 wins!
+Turn <154>:	Player 1 draws : Six of Clubs <---> Player 2 draws : Two of Clubs | Player 1 wins!
+Turn <155>:	Player 1 draws : Nine of Diamonds <---> Player 2 draws : Six of Diamonds | Player 1 wins!
+Turn <156>:	Player 1 draws : Five of Hearts <---> Player 2 draws : Three of Spades | Player 1 wins!
+Turn <157>:	Player 1 draws : Nine of Spades <---> Player 2 draws : Three of Clubs | Player 1 wins!
+Turn <158>:	Player 1 draws : Eight of Clubs <---> Player 2 draws : Four of Spades | Player 1 wins!
+Turn <159>:	Player 1 draws : Ten of Spades <---> Player 2 draws : Eight of Spades | Player 1 wins!
+Turn <160>:	Player 1 draws : Ten of Clubs <---> Player 2 draws : Five of Diamonds | Player 1 wins!
+Turn <161>:	Player 1 draws : Ace of Hearts <---> Player 2 draws : Seven of Clubs | Player 1 wins!
+Turn <162>:	Player 1 draws : Two of Spades <---> Player 2 draws : Nine of Hearts | Player 2 wins!
+Turn <163>:	Player 1 draws : Four of Diamonds <---> Player 2 draws : Qeeun of Clubs | Player 2 wins!
+Turn <164>:	Player 1 draws : Two of Hearts <---> Player 2 draws : Four of Clubs | Player 2 wins!
+Turn <165>:	Player 1 draws : Three of Diamonds <---> Player 2 draws : Seven of Diamonds | Player 2 wins!
+Turn <166>:	Player 1 draws : Three of Hearts <---> Player 2 draws : Six of Spades | Player 2 wins!
+Turn <167>:	Player 1 draws : Four of Hearts <---> Player 2 draws : Jack of Spades | Player 2 wins!
+Turn <168>:	Player 1 draws : Nine of Clubs <---> Player 2 draws : Seven of Hearts | Player 1 wins!
+Turn <169>:	Player 1 draws : Ace of Clubs <---> Player 2 draws : Qeeun of Spades | Player 1 wins!
+Turn <170>:	Player 1 draws : Two of Clubs <---> Player 2 draws : Six of Hearts | Player 2 wins!
+Turn <171>:	Player 1 draws : Six of Clubs <---> Player 2 draws : Qeeun of Diamonds | Player 2 wins!
+Turn <172>:	Player 1 draws : Six of Diamonds <---> Player 2 draws : Eight of Diamonds | Player 2 wins!
+Turn <173>:	Player 1 draws : Nine of Diamonds <---> Player 2 draws : Qeeun of Hearts | Player 2 wins!
+Turn <174>:	Player 1 draws : Three of Spades <---> Player 2 draws : Jack of Clubs | Player 2 wins!
+Turn <175>:	Player 1 draws : Five of Hearts <---> Player 2 draws : King of Diamonds | Player 2 wins!
+Turn <176>:	Player 1 draws : Three of Clubs <---> Player 2 draws : Two of Diamonds | Player 1 wins!
+Turn <177>:	Player 1 draws : Nine of Spades <---> Player 2 draws : King of Hearts | Player 2 wins!
+Turn <178>:	Player 1 draws : Four of Spades <---> Player 2 draws : Ten of Hearts | Player 2 wins!
+Turn <179>:	Player 1 draws : Eight of Clubs <---> Player 2 draws : King of Spades | Player 2 wins!
+Turn <180>:	Player 1 draws : Eight of Spades <---> Player 2 draws : Ten of Diamonds | Player 2 wins!
+Turn <181>:	Player 1 draws : Ten of Spades <---> Player 2 draws : Jack of Diamonds | Player 2 wins!
+Turn <182>:	Player 1 draws : Five of Diamonds <---> Player 2 draws : Five of Spades | War !
+		Player 1 draws: Ten of Clubs <-> Player 2 draws: Eight of Hearts
+		Player 1 draws: Seven of Clubs <-> Player 2 draws: Jack of Hearts
+		Player 1 draws: Ace of Hearts <-> Player 2 draws: Ace of Diamonds
+-->		Player 1 draws: Seven of Hearts <-> Player 2 draws: Five of Clubs  | Player 1 wins!
+Turn <183>:	Player 1 draws : Nine of Clubs <---> Player 2 draws : King of Clubs | Player 2 wins!
+Turn <184>:	Player 1 draws : Qeeun of Spades <---> Player 2 draws : Seven of Spades | Player 1 wins!
+Turn <185>:	Player 1 draws : Ace of Clubs <---> Player 2 draws : Ace of Spades | War !
+		Player 1 draws: Two of Diamonds <-> Player 2 draws: Two of Spades
+		Player 1 draws: Three of Clubs <-> Player 2 draws: Nine of Hearts
+		Player 1 draws: Five of Spades <-> Player 2 draws: Four of Diamonds
+-->		Player 1 draws: Five of Diamonds <-> Player 2 draws: Qeeun of Clubs  | Player 2 wins!
+Turn <186>:	Player 1 draws : Eight of Hearts <---> Player 2 draws : Two of Hearts | Player 1 wins!
+Turn <187>:	Player 1 draws : Ten of Clubs <---> Player 2 draws : Four of Clubs | Player 1 wins!
+Turn <188>:	Player 1 draws : Jack of Hearts <---> Player 2 draws : Three of Diamonds | Player 1 wins!
+Turn <189>:	Player 1 draws : Seven of Clubs <---> Player 2 draws : Seven of Diamonds | War !
+		Player 1 draws: Ace of Diamonds <-> Player 2 draws: Three of Hearts
+		Player 1 draws: Ace of Hearts <-> Player 2 draws: Six of Spades
+		Player 1 draws: Five of Clubs <-> Player 2 draws: Four of Hearts
+-->		Player 1 draws: Seven of Hearts <-> Player 2 draws: Jack of Spades  | Player 2 wins!
+Turn <190>:	Player 1 draws : Seven of Spades <---> Player 2 draws : Two of Clubs | Player 1 wins!
+Turn <191>:	Player 1 draws : Qeeun of Spades <---> Player 2 draws : Six of Hearts | Player 1 wins!
+Turn <192>:	Player 1 draws : Two of Hearts <---> Player 2 draws : Six of Clubs | Player 2 wins!
+Turn <193>:	Player 1 draws : Eight of Hearts <---> Player 2 draws : Qeeun of Diamonds | Player 2 wins!
+Turn <194>:	Player 1 draws : Four of Clubs <---> Player 2 draws : Six of Diamonds | Player 2 wins!
+Turn <195>:	Player 1 draws : Ten of Clubs <---> Player 2 draws : Eight of Diamonds | Player 1 wins!
+Turn <196>:	Player 1 draws : Three of Diamonds <---> Player 2 draws : Nine of Diamonds | Player 2 wins!
+Turn <197>:	Player 1 draws : Jack of Hearts <---> Player 2 draws : Qeeun of Hearts | Player 2 wins!
+Turn <198>:	Player 1 draws : Two of Clubs <---> Player 2 draws : Three of Spades | Player 2 wins!
+Turn <199>:	Player 1 draws : Seven of Spades <---> Player 2 draws : Jack of Clubs | Player 2 wins!
+Turn <200>:	Player 1 draws : Six of Hearts <---> Player 2 draws : Five of Hearts | Player 1 wins!
+Turn <201>:	Player 1 draws : Qeeun of Spades <---> Player 2 draws : King of Diamonds | Player 2 wins!
+Turn <202>:	Player 1 draws : Eight of Diamonds <---> Player 2 draws : Nine of Spades | Player 2 wins!
+Turn <203>:	Player 1 draws : Ten of Clubs <---> Player 2 draws : King of Hearts | Player 2 wins!
+Turn <204>:	Player 1 draws : Five of Hearts <---> Player 2 draws : Four of Spades | Player 1 wins!
+Turn <205>:	Player 1 draws : Six of Hearts <---> Player 2 draws : Ten of Hearts | Player 2 wins!
+Turn <206>:	Player 1 draws : Four of Spades <---> Player 2 draws : Eight of Clubs | Player 2 wins!
+Turn <207>:	Player 1 draws : Five of Hearts <---> Player 2 draws : King of Spades | Player 2 wins!
+
+Player 2 is the winner!

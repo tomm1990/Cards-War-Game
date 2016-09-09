@@ -1,0 +1,19 @@
+﻿Build started 14/06/2015 23:44:50.
+     1>Project "B:\New-Tom-PC\עדכון\שולחן עבודה\תיקיות\לימודים\שנקר\שנה ב - הנדסת תוכנה\סמסטר ב\מבוא לתכנות מערכות\HW2\Tom\matam-LinkedList1.4\matam-LinkedList1.4\matam-LinkedList1.4.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         B:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp main.cpp
+         main.cpp
+         Source.cpp
+         Generating Code...
+     1>b:\new-tom-pc\עדכון\שולחן עבודה\תיקיות\לימודים\שנקר\שנה ב - הנדסת תוכנה\סמסטר ב\מבוא לתכנות מערכות\hw2\tom\matam-linkedlist1.4\matam-linkedlist1.4\source.cpp(12): warning C4715: 'getCardSign' : not all control paths return a value
+     1>b:\new-tom-pc\עדכון\שולחן עבודה\תיקיות\לימודים\שנקר\שנה ב - הנדסת תוכנה\סמסטר ב\מבוא לתכנות מערכות\hw2\tom\matam-linkedlist1.4\matam-linkedlist1.4\source.cpp(21): warning C4715: 'getCardColor' : not all control paths return a value
+     1>b:\new-tom-pc\עדכון\שולחן עבודה\תיקיות\לימודים\שנקר\שנה ב - הנדסת תוכנה\סמסטר ב\מבוא לתכנות מערכות\hw2\tom\matam-linkedlist1.4\matam-linkedlist1.4\main.cpp(550): warning C4715: 'normalize' : not all control paths return a value
+       Link:
+         B:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"B:\New-Tom-PC\עדכון\שולחן עבודה\תיקיות\לימודים\שנקר\שנה ב - הנדסת תוכנה\סמסטר ב\מבוא לתכנות מערכות\HW2\Tom\matam-LinkedList1.4\Debug\matam-LinkedList1.4.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"B:\New-Tom-PC\עדכון\שולחן עבודה\תיקיות\לימודים\שנקר\שנה ב - הנדסת תוכנה\סמסטר ב\מבוא לתכנות מערכות\HW2\Tom\matam-LinkedList1.4\Debug\matam-LinkedList1.4.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"B:\New-Tom-PC\עדכון\שולחן עבודה\תיקיות\לימודים\שנקר\שנה ב - הנדסת תוכנה\סמסטר ב\מבוא לתכנות מערכות\HW2\Tom\matam-LinkedList1.4\Debug\matam-LinkedList1.4.lib" /MACHINE:X86 Debug\main.obj
+         Debug\Source.obj
+         matam-LinkedList1.4.vcxproj -> B:\New-Tom-PC\עדכון\שולחן עבודה\תיקיות\לימודים\שנקר\שנה ב - הנדסת תוכנה\סמסטר ב\מבוא לתכנות מערכות\HW2\Tom\matam-LinkedList1.4\Debug\matam-LinkedList1.4.exe
+     1>Done Building Project "B:\New-Tom-PC\עדכון\שולחן עבודה\תיקיות\לימודים\שנקר\שנה ב - הנדסת תוכנה\סמסטר ב\מבוא לתכנות מערכות\HW2\Tom\matam-LinkedList1.4\matam-LinkedList1.4\matam-LinkedList1.4.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.82
