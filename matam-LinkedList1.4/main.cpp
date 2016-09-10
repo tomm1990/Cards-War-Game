@@ -120,7 +120,7 @@ int main(){
 		
 		printf("\nOnce again? : ( Please enter 1 for YES, 0 for NO )");
 		scanf("%d", &repeat);
-		while ((repeat != 1) && (repeat != 0))				// if user input is out of range than keep asking for valid value for repeat the simulation
+		while ((repeat != 1) && (repeat != 0))			// if user input is out of range than keep asking for valid value for repeat the simulation
 		{
 			printf("\nPlease enter a valid number!\nOnce again? : ( Please enter 1 for YES, 0 for NO )\nChoice: ");
 			scanf("%d", &repeat);
@@ -131,14 +131,11 @@ int main(){
 	return 0;
 }
 
-void war(snode* first1, snode* first2, FILE* MyFile)
-{
+void war(snode* first1, snode* first2, FILE* MyFile){
 	temp1 = first1;
 	temp2 = first2;
-	if ((count_items(temp1) > 3) && (count_items(temp1) > 3))
-	{
-		for (int i = 0; i < 3; i++)
-		{
+	if ((count_items(temp1) > 3) && (count_items(temp2) > 3)){
+		for (int i = 0; i < 3; i++){
 			temp1 = temp1->next;
 			temp2 = temp2->next;
 			printf("\n\tPlayer 1 draws: %s of %s <-> Player 2 draws: %s of %s\n", temp1->name, getCardSign(temp1->sign), temp2->name, getCardSign(temp2->sign));
@@ -146,30 +143,20 @@ void war(snode* first1, snode* first2, FILE* MyFile)
 		temp1 = temp1->next;
 		temp2 = temp2->next;
 		printf("\n->\tPlayer 1 draws: %s of %s <-> Player 2 draws: %s of %s  |", temp1->name, getCardSign(temp1->sign), temp2->name, getCardSign(temp2->sign));	
-		if ((temp1->value)>(temp2->value))
-		{
-			//printf("Turn <%d> : Player 1 draws : ________ - Player 2 draws : _______ | player <y> wins!\n");
+		if ((temp1->value)>(temp2->value)){
 			printf("Player 1 wins!\n");
 			fprintf(MyFile, " Player 1 wins!\n");
-
-
-			for (int i = 0; i < 5; i++)
-			{
+			for (int i = 0; i < 5; i++){
 				add_to_end(first1, first2);
 				add_to_end(first1, first1);
 				remove_f_front(&first2);
 				remove_f_front(&first1);
 			}
-			
 			printf("Player 1 has %d Cards ----- Player 2 has %d Cards\n", count_items(first1), count_items(first2));
-			// Turn <x> : Player 1 draws : ________ - Player 2 draws : _______ | player <y> wins!
-		}
-		else if ((temp1->value)<(temp2->value))
-		{
+		} else if ((temp1->value)<(temp2->value)) {
 			printf("Player 2 wins! \n");
 			fprintf(MyFile, " Player 2 wins!\n");
-			for (int i = 0; i < 5; i++)
-			{
+			for (int i = 0; i < 5; i++){
 				add_to_end(first2, first1);
 				add_to_end(first2, first2);
 				remove_f_front(&first2);
@@ -177,10 +164,7 @@ void war(snode* first1, snode* first2, FILE* MyFile)
 			}
 			
 			printf("Player 1 has %d Cards ----- Player 2 has %d Cards\n", count_items(first1), count_items(first2));
-			// Turn <x> : Player 1 draws : ________ - Player 2 draws : _______ | player <y> wins!
-		}
-		else
-		{
+		} else {
 			printf("War!\n");
 			war(first1, first2, MyFile);
 		}
@@ -188,11 +172,8 @@ void war(snode* first1, snode* first2, FILE* MyFile)
 	}
 }
 
-void left(snode* first1, snode* first2, FILE* MyFile)
-{ 
-	if ((first1 == NULL) || (first2 == NULL))
-	{
-
+void left(snode* first1, snode* first2, FILE* MyFile) { 
+	if ((first1 == NULL) || (first2 == NULL)){
 		if (first1 == NULL){
 			printf("\nPlayer 2 is the winner!\n");
 			fprintf(MyFile, "\nPlayer 2 is the winner!\n");
@@ -204,8 +185,7 @@ void left(snode* first1, snode* first2, FILE* MyFile)
 	}
 }
 
-int count_items(snode *head)
-{
+int count_items(snode *head){
 	int counter = 1;
 	if (head == NULL) {
 		return 0;
@@ -217,8 +197,7 @@ int count_items(snode *head)
 	return counter;
 }
 
-void add_to_end(snode *head, snode *val) 
-{	
+void add_to_end(snode *head, snode *val) {	
 	snode* current = head;
 	while (current->next != NULL) {
 		current = current->next;
@@ -237,33 +216,23 @@ void add_to_end(snode *head, snode *val)
 int remove_f_front(snode** head) {
 	int retval = -1;
 	snode * next_node = NULL;
-
-	if (*head == NULL) {
-		return -1;
-	}
-
+	if (*head == NULL) return -1;
 	next_node = (*head)->next;
 	retval = (*head)->value;
 	free(*head);
 	*head = next_node;
-
 	return retval;
 }
 
-void simulation(snode *first1, snode *first2, FILE* MyFile)
-{
+void simulation(snode *first1, snode *first2, FILE* MyFile){
 	temp1 = NULL;
 	temp2 = NULL;
 	printf("------ Starting simulation ------ \n");
 	fprintf(MyFile, "\n\n------ Starting simulation ------ \n");
-	while ((first1!=NULL) && (first2!=NULL))
-	{
-		//Turn <%d> : Player 1 draws : ________ - Player 2 draws : _______ 
+	while ((first1!=NULL) && (first2!=NULL)){
 		printf("\nTurn <%d>:Player 1 draws: %s of %s <-> Player 2 draws: %s of %s\n", ++turn, first1->name, getCardSign(first1->sign), first2->name, getCardSign(first2->sign));
 		fprintf(MyFile, "Turn <%d>:\tPlayer 1 draws : %s of %s <---> Player 2 draws : %s of %s | ", turn, first1->name, getCardSign(first1->sign), first2->name, getCardSign(first2->sign));
-		if ((first1->value)>(first2->value))
-		{
-			//printf("Turn <%d> : Player 1 draws : ________ - Player 2 draws : _______ | player <y> wins!\n");
+		if ((first1->value)>(first2->value)) {
 			printf("Player 1 wins! \n");
 			fprintf(MyFile,"Player 1 wins!\n");
 			add_to_end(first1, first2);
@@ -271,13 +240,8 @@ void simulation(snode *first1, snode *first2, FILE* MyFile)
 			remove_f_front(&first2);
 			remove_f_front(&first1);
 			printf("Player 1 has %d Cards ----- Player 2 has %d Cards\n", count_items(first1), count_items(first2));
-			// Turn <x> : Player 1 draws : ________ - Player 2 draws : _______ | player <y> wins!
-			//fprintf(ofp, "%d %c", num, tav);
-			
-
 		}
-		else if ((first1->value)<(first2->value))
-		{
+		else if ((first1->value)<(first2->value)){
 			printf("Player 2 wins! \n");
 			fprintf(MyFile, "Player 2 wins!\n");
 			add_to_end(first2, first1);
@@ -285,40 +249,26 @@ void simulation(snode *first1, snode *first2, FILE* MyFile)
 			remove_f_front(&first2);
 			remove_f_front(&first1);
 			printf("Player 1 has %d Cards ----- Player 2 has %d Cards\n", count_items(first1), count_items(first2));
-
-		}
-		else
-		{
+		} else {
 			printf("War!\n");
 			fprintf(MyFile, "War !\n");
-			//war(first1, first2, MyFile);
 			temp1 = first1;
 			temp2 = first2;
-			if ((count_items(temp1) > 3) && (count_items(temp1) > 3))
-			{
-				for (int i = 0; i < 3; i++)
-				{
+			if ((count_items(temp1) > 3) && (count_items(temp2) > 3)) {
+				for (int i = 0; i < 3; i++) {
 					temp1 = temp1->next;
 					temp2 = temp2->next;
 					printf("\n\tPlayer 1 draws: %s of %s <-> Player 2 draws: %s of %s\n", temp1->name, getCardSign(temp1->sign), temp2->name, getCardSign(temp2->sign));
 					fprintf(MyFile, "\t\tPlayer 1 draws: %s of %s <-> Player 2 draws: %s of %s\n", temp1->name, getCardSign(temp1->sign), temp2->name, getCardSign(temp2->sign));
-
 				}
-
-				//Turn <%d> : Player 1 draws : ________ - Player 2 draws : _______ 
 				temp1 = temp1->next;
 				temp2 = temp2->next;
 				printf("\n--->\tPlayer 1 draws: %s of %s <-> Player 2 draws: %s of %s\n", temp1->name, getCardSign(temp1->sign), temp2->name, getCardSign(temp2->sign));
 				fprintf(MyFile, "-->\t\tPlayer 1 draws: %s of %s <-> Player 2 draws: %s of %s  |", temp1->name, getCardSign(temp1->sign), temp2->name, getCardSign(temp2->sign));
-
-				if ((temp1->value)>(temp2->value))
-				{
+				if ((temp1->value)>(temp2->value)){
 					printf("Player 1 wins!\n");
 					fprintf(MyFile, " Player 1 wins!\n");
-
-
-					for (int i = 0; i < 5; i++)
-					{
+					for (int i = 0; i < 5; i++){
 						add_to_end(first1, first2);
 						add_to_end(first1, first1);
 						remove_f_front(&first2);
@@ -326,40 +276,26 @@ void simulation(snode *first1, snode *first2, FILE* MyFile)
 					}
 
 					printf("Player 1 has %d Cards ----- Player 2 has %d Cards\n", count_items(first1), count_items(first2));
-					// Turn <x> : Player 1 draws : ________ - Player 2 draws : _______ | player <y> wins!
-					//fprintf(ofp, "%d %c", num, tav);
 				}
-				else if ((temp1->value)<(temp2->value))
-				{
-					//printf("Turn <%d> : Player 1 draws : ________ - Player 2 draws : _______ | player <y> wins!\n");
+				else if ((temp1->value)<(temp2->value)){
 					printf("Player 2 wins! \n");
 					fprintf(MyFile, " Player 2 wins!\n");
-
-
-					for (int i = 0; i < 5; i++)
-					{
+					for (int i = 0; i < 5; i++) {
 						add_to_end(first2, first1);
 						add_to_end(first2, first2);
 						remove_f_front(&first2);
 						remove_f_front(&first1);
 					}
-
 					printf("Player 1 has %d Cards ----- Player 2 has %d Cards\n", count_items(first1), count_items(first2));
-					// Turn <x> : Player 1 draws : ________ - Player 2 draws : _______ | player <y> wins!
-					//fprintf(ofp, "%d %c", num, tav);
-				}
-				else
-				{
-					//printf("War!\n");
-					//war(first1, first2, MyFile);
+				} else {
 					add_to_end(first1, first1);
 					add_to_end(first2, first2);
 					remove_f_front(&first2);
 					remove_f_front(&first1);
 				}
-				left(first1, first2, MyFile); // warninggggggggggggg
+				left(first1, first2, MyFile); // warning
 			}
-			//-------
+			//------- debbuger - Unhide it to strat debbuging
 			/*printf("\nPlayer 1 List:\n");
 			display1(first1);
 			printf("Player 1 has %d Cards\n", count_items(first1));
@@ -368,20 +304,14 @@ void simulation(snode *first1, snode *first2, FILE* MyFile)
 			display1(first2);
 			printf("Player 2 has %d Cards\n\n\n", count_items(first2));*/
 			//-----
-			
 		}
-		left(first1, first2, MyFile); // warninggggggggggggg
-		
-
+		left(first1, first2, MyFile); // warning
 	}
-
 }
 
-void randomize(snode *arr, int n)
-{
+void randomize(snode *arr, int n){
 	printf("--------Shuffling Pack--------\n");
-	for ( int i = n - 1 ; i > 0 ; i-- )
-	{
+	for ( int i = n - 1 ; i > 0 ; i-- ){
 		int j = rand() % (i + 1);
 		swap(&arr[i], &arr[j]);
 		printf("(%d)%s of %s %s\n", (arr + i)->value, (arr + i)->name, getCardColor((arr + i)->color), getCardSign((arr + i)->sign));
@@ -389,25 +319,21 @@ void randomize(snode *arr, int n)
 	printf("--------Pack was shuffled--------\n\n\n");
 }
 
-void swap(snode *a, snode *b)
-{
+void swap(snode *a, snode *b){
 	snode temp = *a;
 	*a = *b;
 	*b = temp;
 }
 
-void InitializePack(snode *pack)
-{
+void InitializePack(snode *pack){
 	struct Card *temp;
 	temp = pack;
 	char *array[] = { "Hearts", "Diamonds", "Clubs", "Spades" };
 	printf("--------Initializing Pack of 52 Cards--------\n");
-	for (int i = 1; i <= 4; i++)
-	{
+	for (int i = 1; i <= 4; i++){
 		int val;
-		for (val = 2; val <= 14; val++)
-		{
-			temp->value = val;						// initializing value
+		for (val = 2; val <= 14; val++){
+			temp->value = val;					// initializing value
 			temp->name = normalize(temp->value);			// initializing name
 			char* sign = array[i-1];				// rand() % 4
 			if ((strstr("Hearts", sign)) || (strstr("Diamonds", sign))) {
@@ -419,7 +345,6 @@ void InitializePack(snode *pack)
 				temp->color = Black;
 				if (strstr("Clubs", sign)) temp->sign = Clubs;
 				else temp->sign = Spades;
-
 			}
 			printf("(%d)%s of %s %s\n", temp->value, temp->name, getCardColor(temp->color), getCardSign(temp->sign));
 			temp++;
@@ -428,43 +353,23 @@ void InitializePack(snode *pack)
 	printf("--------Pack was successfully initialized--------\n\n\n");
 }
 
-snode* create_node(snode *arr)
-{
+snode* create_node(snode *arr){
 	newnode = CREATITEM;
-	if (newnode == NULL)
-	{
+	if (newnode == NULL){
 		printf("\nMemory was not allocated!\nPlease try again later\n");
 		system("pause");
 		return 0;
-	}
-	else
-	{
+	} else {
 		newnode->value = arr->value;						// initializing value
-		newnode->name = arr->name;							// initializing name
-		newnode->sign = arr->sign;							// initializing sign
+		newnode->name = arr->name;						// initializing name
+		newnode->sign = arr->sign;						// initializing sign
 		newnode->color = arr->color;						// initializing color
-		//if ((strstr("Hearts", sign)) || (strstr("Diamonds", sign))) {
-		//	newnode->color = Red;					// initializing color
-		//	if (strstr("Hearts", sign)) newnode->sign = Hearts;
-		//	else newnode->sign = Diamonds;			// initializing sign
-		//}
-		//else if ((strstr("Clubs", sign)) || (strstr("Spades", sign))){
-		//	newnode->color = Black;
-		//	if (strstr("Clubs", sign)) newnode->sign = Clubs;
-		//	else newnode->sign = Spades;
-		//}
-		//else
-		//{
-		//	printf("Error\n");
-		//	exit(1);
-		//}
 		newnode->next = NULL;
 		return newnode;
 	}
 }
 
-void FreeList()
-{
+void FreeList(){
 	snode* to_free1=NULL;
 	if (first1)
 	{
