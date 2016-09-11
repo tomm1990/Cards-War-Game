@@ -337,7 +337,7 @@ void InitializePack(snode *pack){
 			temp->name = normalize(temp->value);			// initializing name
 			char* sign = array[i-1];				// rand() % 4
 			if ((strstr("Hearts", sign)) || (strstr("Diamonds", sign))) {
-				temp->color = Red;					// initializing color
+				temp->color = Red;				// initializing color
 				if (strstr("Hearts", sign)) temp->sign = Hearts;
 				else temp->sign = Diamonds;			// initializing sign
 			}
@@ -371,11 +371,9 @@ snode* create_node(snode *arr){
 
 void FreeList(){
 	snode* to_free1=NULL;
-	if (first1)
-	{
+	if (first1){
 		to_free1 = first1;
-		while (to_free1 != NULL)
-		{
+		while (to_free1 != NULL){
 			first1 = first1->next;
 			free(to_free1);
 			to_free1 = first1;
@@ -383,11 +381,9 @@ void FreeList(){
 		printf("\n\nPlayer 1 Linked List has been deleted\n");
 	}
 	snode* to_free2 = NULL;
-	if (first2)
-	{
+	if (first2){
 		to_free2 = first2;
-		while (to_free2 != NULL)
-		{
+		while (to_free2 != NULL){
 			first2 = first2->next;
 			free(to_free2);
 			to_free2 = first2;
@@ -395,11 +391,9 @@ void FreeList(){
 		printf("\nPlayer 2 Linked List has been deleted\n");
 	}
 	snode* to_free_temp1 = NULL;
-	if (temp1)
-	{
+	if (temp1){
 		to_free_temp1 = temp1;
-		while (to_free_temp1 != NULL)
-		{
+		while (to_free_temp1 != NULL){
 			temp1 = temp1->next;
 			free(to_free_temp1);
 			to_free_temp1 = temp1;
@@ -408,11 +402,9 @@ void FreeList(){
 	}
 	snode* to_free_temp2 = NULL;
 
-	if (temp2)
-	{
+	if (temp2){
 		to_free_temp2 = temp2;
-		while (to_free_temp2 != NULL)
-		{
+		while (to_free_temp2 != NULL){
 			temp2 = temp2->next;
 			free(to_free_temp2);
 			to_free_temp2 = temp2;
@@ -421,9 +413,8 @@ void FreeList(){
 	}
 }
 
-char* normalize(int val)								// function for the name of the value
-{
-	switch (val){										// switch case of the number value
+char* normalize(int val) {						// function for the name of the value
+	switch (val) {							// switch case of the number value
 	case 2: return "Two";
 	case 3: return "Three";
 	case 4: return "Four";
@@ -440,14 +431,10 @@ char* normalize(int val)								// function for the name of the value
 	}
 }
 
-void display1(snode *head)								// display list function
-{
-		snode * current = head;							// decleration
+void display1(snode *head){						// display list function
+		snode * current = head;					// decleration
 		while (current != NULL) {
 			printf("(%d)%s of %s %s\n", current->value, current->name, getCardColor(current->color), getCardSign(current->sign));
 			current = current->next;
 		}
 }
-
- 
-
